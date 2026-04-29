@@ -1,0 +1,32 @@
+paths:
+  /text-to-image/generate-image:
+    post:
+      security: 
+        - bearerAuth: []
+      tags:
+        - "Text to Image"
+      description: "Generate images from text"
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:      
+              type: "object"
+              properties:
+                prompt:
+                  type: "string"
+      responses:
+        200:
+          description: "Successful Operation"
+          schema:
+            type: "object"
+            properties:
+              success:
+                type: "boolean"
+              message:
+                type: "string"
+                example: "Image generated successfully"
+              imageUrl:
+                type: "string"
+              uc:
+                type: "number"

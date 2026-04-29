@@ -1,0 +1,78 @@
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api-docs/',
+  method: 'GET',
+  path: '/api-docs/',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: '0fe20ae4-1a2f-4461-a113-1dd431e1ee96',
+  timestamp: '9/1/2025, 1:42:00 PM'
+}
+{
+  level: 'info',
+  message: 'Response Sent - GET /',
+  method: 'GET',
+  path: '/',
+  reqId: '0fe20ae4-1a2f-4461-a113-1dd431e1ee96',
+  responseTime: 0.015,
+  timestamp: '9/1/2025, 1:42:00 PM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api-docs/swagger-ui.css',
+  method: 'GET',
+  path: '/api-docs/swagger-ui.css',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: 'c72eaf39-186f-400f-8c76-39330e250b41',
+  timestamp: '9/1/2025, 1:42:00 PM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api-docs/swagger-ui-bundle.js',
+  method: 'GET',
+  path: '/api-docs/swagger-ui-bundle.js',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: '29810e96-81c1-4c2b-99ca-3fdd48e0f01b',
+  timestamp: '9/1/2025, 1:42:00 PM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api-docs/swagger-ui-standalone-preset.js',
+  method: 'GET',
+  path: '/api-docs/swagger-ui-standalone-preset.js',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: '7bd3149f-3aac-4323-9104-0e83e90b5b73',
+  timestamp: '9/1/2025, 1:42:00 PM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api-docs/swagger-ui-init.js',
+  method: 'GET',
+  path: '/api-docs/swagger-ui-init.js',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: '597730f2-7a0d-4d35-a6d4-aa8c28bbd0ee',
+  timestamp: '9/1/2025, 1:42:00 PM'
+}
+{
+  level: 'info',
+  message: 'Response Sent - GET /swagger-ui-init.js',
+  method: 'GET',
+  path: '/swagger-ui-init.js',
+  reqId: '597730f2-7a0d-4d35-a6d4-aa8c28bbd0ee',
+  responseTime: 0,
+  timestamp: '9/1/2025, 1:42:00 PM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api-docs/favicon-32x32.png',
+  method: 'GET',
+  path: '/api-docs/favicon-32x32.png',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: 'e54be7d1-ac80-478d-ac13-f44ded2d06d3',
+  timestamp: '9/1/2025, 1:42:00 PM'
+}

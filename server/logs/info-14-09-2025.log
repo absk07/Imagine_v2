@@ -1,0 +1,2206 @@
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api/v1/user/unknown-credit',
+  method: 'GET',
+  path: '/api/v1/user/unknown-credit',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: '21a8cbbb-2802-41f0-8e21-fa140467b49b',
+  timestamp: '9/14/2025, 2:27:38 PM'
+}
+{
+  level: 'info',
+  message: 'Response Sent - GET /api/v1/user/unknown-credit',
+  method: 'GET',
+  path: '/api/v1/user/unknown-credit',
+  reqId: '21a8cbbb-2802-41f0-8e21-fa140467b49b',
+  responseTime: 0.119,
+  timestamp: '9/14/2025, 2:27:38 PM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api/v1/user/unknown-credit',
+  method: 'GET',
+  path: '/api/v1/user/unknown-credit',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: 'd38c5ba8-26ad-46f3-8398-3d96ac6168d3',
+  timestamp: '9/14/2025, 2:28:00 PM'
+}
+{
+  level: 'info',
+  message: 'Response Sent - GET /api/v1/user/unknown-credit',
+  method: 'GET',
+  path: '/api/v1/user/unknown-credit',
+  reqId: 'd38c5ba8-26ad-46f3-8398-3d96ac6168d3',
+  responseTime: 0.078,
+  timestamp: '9/14/2025, 2:28:01 PM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api/v1/user/unknown-credit',
+  method: 'GET',
+  path: '/api/v1/user/unknown-credit',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: 'c45f4cef-3f1f-4a66-8e40-5ec221eb0715',
+  timestamp: '9/14/2025, 2:28:13 PM'
+}
+{
+  level: 'info',
+  message: 'Response Sent - GET /api/v1/user/unknown-credit',
+  method: 'GET',
+  path: '/api/v1/user/unknown-credit',
+  reqId: 'c45f4cef-3f1f-4a66-8e40-5ec221eb0715',
+  responseTime: 0.019,
+  timestamp: '9/14/2025, 2:28:13 PM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api/v1/history',
+  method: 'GET',
+  path: '/api/v1/history',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: 'd6ae8d05-d9b9-408c-a7cb-505bbc8ec7a1',
+  timestamp: '9/14/2025, 2:28:13 PM'
+}
+{
+  level: 'info',
+  message: 'Response Sent - GET /api/v1/history',
+  method: 'GET',
+  path: '/api/v1/history',
+  reqId: 'd6ae8d05-d9b9-408c-a7cb-505bbc8ec7a1',
+  responseTime: 0.013,
+  timestamp: '9/14/2025, 2:28:13 PM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - POST /api/v1/user/login',
+  method: 'POST',
+  path: '/api/v1/user/login',
+  query: [Object: null prototype] {},
+  body: { email: 'john@doe.com', password: '******' },
+  reqId: 'f8d65bfc-80ab-4410-8ebf-fd64af824d31',
+  timestamp: '9/14/2025, 2:28:45 PM'
+}
+{
+  level: 'info',
+  message: 'Response Sent - POST /login',
+  method: 'POST',
+  path: '/login',
+  reqId: 'f8d65bfc-80ab-4410-8ebf-fd64af824d31',
+  responseTime: 0.152,
+  timestamp: '9/14/2025, 2:28:45 PM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api/v1/user/unknown-credit',
+  method: 'GET',
+  path: '/api/v1/user/unknown-credit',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: 'ad9482c9-4874-4cc7-b9f0-9e3cd20e8012',
+  timestamp: '9/14/2025, 2:28:45 PM'
+}
+{
+  level: 'info',
+  message: 'Response Sent - GET /unknown-credit',
+  method: 'GET',
+  path: '/unknown-credit',
+  reqId: 'ad9482c9-4874-4cc7-b9f0-9e3cd20e8012',
+  responseTime: 0.021,
+  timestamp: '9/14/2025, 2:28:45 PM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api/v1/user/unknown-credit',
+  method: 'GET',
+  path: '/api/v1/user/unknown-credit',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: 'f4a57af5-e4f0-4853-8e27-eaea8148f715',
+  timestamp: '9/14/2025, 2:28:55 PM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api/v1/history',
+  method: 'GET',
+  path: '/api/v1/history',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: '4013559c-d8b6-4c31-b363-3ada88d3781b',
+  timestamp: '9/14/2025, 2:28:56 PM'
+}
+{
+  level: 'info',
+  message: 'Response Sent - GET /unknown-credit',
+  method: 'GET',
+  path: '/unknown-credit',
+  reqId: 'f4a57af5-e4f0-4853-8e27-eaea8148f715',
+  responseTime: 0.018,
+  timestamp: '9/14/2025, 2:28:56 PM'
+}
+{
+  level: 'info',
+  message: 'Response Sent - GET /',
+  method: 'GET',
+  path: '/',
+  reqId: '4013559c-d8b6-4c31-b363-3ada88d3781b',
+  responseTime: 0.339,
+  timestamp: '9/14/2025, 2:28:56 PM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api/v1/user/unknown-credit',
+  method: 'GET',
+  path: '/api/v1/user/unknown-credit',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: 'c6756a24-a88d-40f1-8e2f-bbd49989d821',
+  timestamp: '9/14/2025, 2:29:24 PM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api/v1/history',
+  method: 'GET',
+  path: '/api/v1/history',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: '8f255acb-fe04-497a-b5fc-2e593390c60f',
+  timestamp: '9/14/2025, 2:29:24 PM'
+}
+{
+  level: 'info',
+  message: 'Response Sent - GET /unknown-credit',
+  method: 'GET',
+  path: '/unknown-credit',
+  reqId: 'c6756a24-a88d-40f1-8e2f-bbd49989d821',
+  responseTime: 0.024,
+  timestamp: '9/14/2025, 2:29:24 PM'
+}
+{
+  level: 'info',
+  message: 'Response Sent - GET /',
+  method: 'GET',
+  path: '/',
+  reqId: '8f255acb-fe04-497a-b5fc-2e593390c60f',
+  responseTime: 0.302,
+  timestamp: '9/14/2025, 2:29:24 PM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api/v1/user/unknown-credit',
+  method: 'GET',
+  path: '/api/v1/user/unknown-credit',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: '154055a0-5cde-4234-afee-43c255606447',
+  timestamp: '9/14/2025, 2:29:29 PM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api/v1/history',
+  method: 'GET',
+  path: '/api/v1/history',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: '17c895d5-e52f-4d97-998d-5e5f4484ff1a',
+  timestamp: '9/14/2025, 2:29:29 PM'
+}
+{
+  level: 'info',
+  message: 'Response Sent - GET /unknown-credit',
+  method: 'GET',
+  path: '/unknown-credit',
+  reqId: '154055a0-5cde-4234-afee-43c255606447',
+  responseTime: 0.015,
+  timestamp: '9/14/2025, 2:29:29 PM'
+}
+{
+  level: 'info',
+  message: 'Response Sent - GET /',
+  method: 'GET',
+  path: '/',
+  reqId: '17c895d5-e52f-4d97-998d-5e5f4484ff1a',
+  responseTime: 0.233,
+  timestamp: '9/14/2025, 2:29:29 PM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api/v1/user/unknown-credit',
+  method: 'GET',
+  path: '/api/v1/user/unknown-credit',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: '28c9a5de-d9af-4676-ad5d-dd4c2a95bc72',
+  timestamp: '9/14/2025, 2:30:15 PM'
+}
+{
+  level: 'info',
+  message: 'Response Sent - GET /api/v1/user/unknown-credit',
+  method: 'GET',
+  path: '/api/v1/user/unknown-credit',
+  reqId: '28c9a5de-d9af-4676-ad5d-dd4c2a95bc72',
+  responseTime: 0.007,
+  timestamp: '9/14/2025, 2:30:15 PM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api/v1/user/unknown-credit',
+  method: 'GET',
+  path: '/api/v1/user/unknown-credit',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: '75e8da65-36b1-4ded-863b-9532657d3cb1',
+  timestamp: '9/14/2025, 2:32:38 PM'
+}
+{
+  level: 'info',
+  message: 'Response Sent - GET /api/v1/user/unknown-credit',
+  method: 'GET',
+  path: '/api/v1/user/unknown-credit',
+  reqId: '75e8da65-36b1-4ded-863b-9532657d3cb1',
+  responseTime: 0.006,
+  timestamp: '9/14/2025, 2:32:38 PM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api/v1/user/unknown-credit',
+  method: 'GET',
+  path: '/api/v1/user/unknown-credit',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: 'e03a2675-e3af-45b0-ae72-d3971fcc91d1',
+  timestamp: '9/14/2025, 2:32:40 PM'
+}
+{
+  level: 'info',
+  message: 'Response Sent - GET /api/v1/user/unknown-credit',
+  method: 'GET',
+  path: '/api/v1/user/unknown-credit',
+  reqId: 'e03a2675-e3af-45b0-ae72-d3971fcc91d1',
+  responseTime: 0.005,
+  timestamp: '9/14/2025, 2:32:40 PM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api/v1/user/unknown-credit',
+  method: 'GET',
+  path: '/api/v1/user/unknown-credit',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: 'fdf0bb25-e50f-465e-9313-048b0c4cc4cd',
+  timestamp: '9/14/2025, 2:32:49 PM'
+}
+{
+  level: 'info',
+  message: 'Response Sent - GET /api/v1/user/unknown-credit',
+  method: 'GET',
+  path: '/api/v1/user/unknown-credit',
+  reqId: 'fdf0bb25-e50f-465e-9313-048b0c4cc4cd',
+  responseTime: 0.002,
+  timestamp: '9/14/2025, 2:32:49 PM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api/v1/user/unknown-credit',
+  method: 'GET',
+  path: '/api/v1/user/unknown-credit',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: 'be571d4f-623e-4795-8d72-25153ca3a4a7',
+  timestamp: '9/14/2025, 2:32:52 PM'
+}
+{
+  level: 'info',
+  message: 'Response Sent - GET /api/v1/user/unknown-credit',
+  method: 'GET',
+  path: '/api/v1/user/unknown-credit',
+  reqId: 'be571d4f-623e-4795-8d72-25153ca3a4a7',
+  responseTime: 0.003,
+  timestamp: '9/14/2025, 2:32:52 PM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api/v1/user/unknown-credit',
+  method: 'GET',
+  path: '/api/v1/user/unknown-credit',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: 'bec5e44b-31af-4f13-ae70-3063240c04b5',
+  timestamp: '9/14/2025, 2:41:00 PM'
+}
+{
+  level: 'info',
+  message: 'Response Sent - GET /api/v1/user/unknown-credit',
+  method: 'GET',
+  path: '/api/v1/user/unknown-credit',
+  reqId: 'bec5e44b-31af-4f13-ae70-3063240c04b5',
+  responseTime: 0.003,
+  timestamp: '9/14/2025, 2:41:00 PM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api/v1/history',
+  method: 'GET',
+  path: '/api/v1/history',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: '3b298c9e-a872-4316-b54a-e994ca8a93a4',
+  timestamp: '9/14/2025, 2:41:00 PM'
+}
+{
+  level: 'info',
+  message: 'Response Sent - GET /api/v1/history',
+  method: 'GET',
+  path: '/api/v1/history',
+  reqId: '3b298c9e-a872-4316-b54a-e994ca8a93a4',
+  responseTime: 0.007,
+  timestamp: '9/14/2025, 2:41:00 PM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - POST /api/v1/user/login',
+  method: 'POST',
+  path: '/api/v1/user/login',
+  query: [Object: null prototype] {},
+  body: { email: 'john@doe.com', password: '******' },
+  reqId: 'd3f69867-2987-464e-9912-4de53cf30536',
+  timestamp: '9/14/2025, 2:41:18 PM'
+}
+{
+  level: 'info',
+  message: 'Response Sent - POST /login',
+  method: 'POST',
+  path: '/login',
+  reqId: 'd3f69867-2987-464e-9912-4de53cf30536',
+  responseTime: 0.226,
+  timestamp: '9/14/2025, 2:41:18 PM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api/v1/user/unknown-credit',
+  method: 'GET',
+  path: '/api/v1/user/unknown-credit',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: '9b2e005a-bd27-4c8f-ac4b-d24af743c110',
+  timestamp: '9/14/2025, 2:41:18 PM'
+}
+{
+  level: 'info',
+  message: 'Response Sent - GET /unknown-credit',
+  method: 'GET',
+  path: '/unknown-credit',
+  reqId: '9b2e005a-bd27-4c8f-ac4b-d24af743c110',
+  responseTime: 0.019,
+  timestamp: '9/14/2025, 2:41:18 PM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api/v1/history',
+  method: 'GET',
+  path: '/api/v1/history',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: '998bfcd8-ec07-4355-80a8-799534ee1e25',
+  timestamp: '9/14/2025, 2:42:07 PM'
+}
+{
+  level: 'info',
+  message: 'Response Sent - GET /',
+  method: 'GET',
+  path: '/',
+  reqId: '998bfcd8-ec07-4355-80a8-799534ee1e25',
+  responseTime: 0.227,
+  timestamp: '9/14/2025, 2:42:07 PM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api/v1/history',
+  method: 'GET',
+  path: '/api/v1/history',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: '1b1b8573-eac5-4c90-95c4-6c0c84c92f64',
+  timestamp: '9/14/2025, 2:42:09 PM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api/v1/user/unknown-credit',
+  method: 'GET',
+  path: '/api/v1/user/unknown-credit',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: '058e651c-bfc5-4f88-81bd-6a375fc41af8',
+  timestamp: '9/14/2025, 2:42:09 PM'
+}
+{
+  level: 'info',
+  message: 'Response Sent - GET /unknown-credit',
+  method: 'GET',
+  path: '/unknown-credit',
+  reqId: '058e651c-bfc5-4f88-81bd-6a375fc41af8',
+  responseTime: 0.016,
+  timestamp: '9/14/2025, 2:42:09 PM'
+}
+{
+  level: 'info',
+  message: 'Response Sent - GET /',
+  method: 'GET',
+  path: '/',
+  reqId: '1b1b8573-eac5-4c90-95c4-6c0c84c92f64',
+  responseTime: 0.237,
+  timestamp: '9/14/2025, 2:42:09 PM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api/v1/user/unknown-credit',
+  method: 'GET',
+  path: '/api/v1/user/unknown-credit',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: '922f9117-dde8-4afe-9587-5c8e851b5725',
+  timestamp: '9/14/2025, 2:42:17 PM'
+}
+{
+  level: 'info',
+  message: 'Response Sent - GET /api/v1/user/unknown-credit',
+  method: 'GET',
+  path: '/api/v1/user/unknown-credit',
+  reqId: '922f9117-dde8-4afe-9587-5c8e851b5725',
+  responseTime: 0.003,
+  timestamp: '9/14/2025, 2:42:17 PM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api/v1/history',
+  method: 'GET',
+  path: '/api/v1/history',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: 'b9123650-89c9-4a2d-9442-4575bf2180c3',
+  timestamp: '9/14/2025, 2:42:17 PM'
+}
+{
+  level: 'info',
+  message: 'Response Sent - GET /api/v1/history',
+  method: 'GET',
+  path: '/api/v1/history',
+  reqId: 'b9123650-89c9-4a2d-9442-4575bf2180c3',
+  responseTime: 0.013,
+  timestamp: '9/14/2025, 2:42:17 PM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - POST /api/v1/user/login',
+  method: 'POST',
+  path: '/api/v1/user/login',
+  query: [Object: null prototype] {},
+  body: { email: 'john@doe.com', password: '******' },
+  reqId: '8b53a920-7f16-42e1-a3b0-73da1d35a883',
+  timestamp: '9/14/2025, 2:42:24 PM'
+}
+{
+  level: 'info',
+  message: 'Response Sent - POST /login',
+  method: 'POST',
+  path: '/login',
+  reqId: '8b53a920-7f16-42e1-a3b0-73da1d35a883',
+  responseTime: 0.101,
+  timestamp: '9/14/2025, 2:42:25 PM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api/v1/user/unknown-credit',
+  method: 'GET',
+  path: '/api/v1/user/unknown-credit',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: '1e1c0574-22dc-42c5-b3dd-63f78a79a84a',
+  timestamp: '9/14/2025, 2:42:25 PM'
+}
+{
+  level: 'info',
+  message: 'Response Sent - GET /unknown-credit',
+  method: 'GET',
+  path: '/unknown-credit',
+  reqId: '1e1c0574-22dc-42c5-b3dd-63f78a79a84a',
+  responseTime: 0.014,
+  timestamp: '9/14/2025, 2:42:25 PM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api/v1/history',
+  method: 'GET',
+  path: '/api/v1/history',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: '8f8bc84a-cdc8-4ce3-a28d-9a7cd07b5c51',
+  timestamp: '9/14/2025, 2:42:53 PM'
+}
+{
+  level: 'info',
+  message: 'Response Sent - GET /',
+  method: 'GET',
+  path: '/',
+  reqId: '8f8bc84a-cdc8-4ce3-a28d-9a7cd07b5c51',
+  responseTime: 0.235,
+  timestamp: '9/14/2025, 2:42:54 PM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api/v1/user/unknown-credit',
+  method: 'GET',
+  path: '/api/v1/user/unknown-credit',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: '3ff08e83-e1e0-45b7-b7c6-3298f39aff6c',
+  timestamp: '9/14/2025, 2:52:35 PM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api/v1/history',
+  method: 'GET',
+  path: '/api/v1/history',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: '0e58c1ba-e7b8-47a4-811d-28ffa01865d1',
+  timestamp: '9/14/2025, 2:52:35 PM'
+}
+{
+  level: 'info',
+  message: 'Response Sent - GET /unknown-credit',
+  method: 'GET',
+  path: '/unknown-credit',
+  reqId: '3ff08e83-e1e0-45b7-b7c6-3298f39aff6c',
+  responseTime: 0.015,
+  timestamp: '9/14/2025, 2:52:35 PM'
+}
+{
+  level: 'info',
+  message: 'Response Sent - GET /',
+  method: 'GET',
+  path: '/',
+  reqId: '0e58c1ba-e7b8-47a4-811d-28ffa01865d1',
+  responseTime: 0.222,
+  timestamp: '9/14/2025, 2:52:35 PM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api/v1/user/unknown-credit',
+  method: 'GET',
+  path: '/api/v1/user/unknown-credit',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: '9f383022-76aa-4894-809e-01969948d7f1',
+  timestamp: '9/14/2025, 2:52:39 PM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api/v1/history',
+  method: 'GET',
+  path: '/api/v1/history',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: '1b7d15db-0607-4c87-8fa6-15fdcf75eb64',
+  timestamp: '9/14/2025, 2:52:39 PM'
+}
+{
+  level: 'info',
+  message: 'Response Sent - GET /unknown-credit',
+  method: 'GET',
+  path: '/unknown-credit',
+  reqId: '9f383022-76aa-4894-809e-01969948d7f1',
+  responseTime: 0.017,
+  timestamp: '9/14/2025, 2:52:39 PM'
+}
+{
+  level: 'info',
+  message: 'Response Sent - GET /',
+  method: 'GET',
+  path: '/',
+  reqId: '1b7d15db-0607-4c87-8fa6-15fdcf75eb64',
+  responseTime: 0.198,
+  timestamp: '9/14/2025, 2:52:39 PM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api/v1/user/unknown-credit',
+  method: 'GET',
+  path: '/api/v1/user/unknown-credit',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: '8f72ecd7-79ee-4cd0-b099-a64e815a523f',
+  timestamp: '9/14/2025, 2:52:41 PM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api/v1/history',
+  method: 'GET',
+  path: '/api/v1/history',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: 'a75d1dcb-b128-47eb-af1b-c5c55de43ebc',
+  timestamp: '9/14/2025, 2:52:41 PM'
+}
+{
+  level: 'info',
+  message: 'Response Sent - GET /unknown-credit',
+  method: 'GET',
+  path: '/unknown-credit',
+  reqId: '8f72ecd7-79ee-4cd0-b099-a64e815a523f',
+  responseTime: 0.013,
+  timestamp: '9/14/2025, 2:52:41 PM'
+}
+{
+  level: 'info',
+  message: 'Response Sent - GET /',
+  method: 'GET',
+  path: '/',
+  reqId: 'a75d1dcb-b128-47eb-af1b-c5c55de43ebc',
+  responseTime: 0.201,
+  timestamp: '9/14/2025, 2:52:41 PM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api/v1/user/unknown-credit',
+  method: 'GET',
+  path: '/api/v1/user/unknown-credit',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: '4efa252e-b1c3-4f04-b27a-70051ed3c36d',
+  timestamp: '9/14/2025, 2:52:44 PM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api/v1/history',
+  method: 'GET',
+  path: '/api/v1/history',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: '278b5edf-fd9d-4390-adb6-8f5c142e61b3',
+  timestamp: '9/14/2025, 2:52:44 PM'
+}
+{
+  level: 'info',
+  message: 'Response Sent - GET /unknown-credit',
+  method: 'GET',
+  path: '/unknown-credit',
+  reqId: '4efa252e-b1c3-4f04-b27a-70051ed3c36d',
+  responseTime: 0.018,
+  timestamp: '9/14/2025, 2:52:44 PM'
+}
+{
+  level: 'info',
+  message: 'Response Sent - GET /',
+  method: 'GET',
+  path: '/',
+  reqId: '278b5edf-fd9d-4390-adb6-8f5c142e61b3',
+  responseTime: 0.218,
+  timestamp: '9/14/2025, 2:52:44 PM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api/v1/user/unknown-credit',
+  method: 'GET',
+  path: '/api/v1/user/unknown-credit',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: 'ac3d047b-c96d-413d-ae34-21ee33fa8a11',
+  timestamp: '9/14/2025, 2:54:22 PM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api/v1/history',
+  method: 'GET',
+  path: '/api/v1/history',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: '99013ea7-3c88-475b-b39d-d7b711a40ba7',
+  timestamp: '9/14/2025, 2:54:22 PM'
+}
+{
+  level: 'info',
+  message: 'Response Sent - GET /unknown-credit',
+  method: 'GET',
+  path: '/unknown-credit',
+  reqId: 'ac3d047b-c96d-413d-ae34-21ee33fa8a11',
+  responseTime: 0.016,
+  timestamp: '9/14/2025, 2:54:22 PM'
+}
+{
+  level: 'info',
+  message: 'Response Sent - GET /',
+  method: 'GET',
+  path: '/',
+  reqId: '99013ea7-3c88-475b-b39d-d7b711a40ba7',
+  responseTime: 0.227,
+  timestamp: '9/14/2025, 2:54:22 PM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - POST /api/v1/text-to-image/generate-image',
+  method: 'POST',
+  path: '/api/v1/text-to-image/generate-image',
+  query: [Object: null prototype] {},
+  body: {
+    prompt: 'The breaking bad cast in cartoon style standing in a group'
+  },
+  reqId: '1546c200-f833-47c2-ab48-4d4a7514ece4',
+  timestamp: '9/14/2025, 2:58:36 PM'
+}
+{
+  level: 'info',
+  message: 'Response Sent - POST /generate-image',
+  method: 'POST',
+  path: '/generate-image',
+  reqId: '1546c200-f833-47c2-ab48-4d4a7514ece4',
+  responseTime: 3.616,
+  timestamp: '9/14/2025, 2:58:39 PM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api/v1/user/unknown-credit',
+  method: 'GET',
+  path: '/api/v1/user/unknown-credit',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: '70e427cd-9a00-4557-afd3-a3470b5e3f51',
+  timestamp: '9/14/2025, 2:58:39 PM'
+}
+{
+  level: 'info',
+  message: 'Response Sent - GET /unknown-credit',
+  method: 'GET',
+  path: '/unknown-credit',
+  reqId: '70e427cd-9a00-4557-afd3-a3470b5e3f51',
+  responseTime: 0.013,
+  timestamp: '9/14/2025, 2:58:39 PM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api/v1/history',
+  method: 'GET',
+  path: '/api/v1/history',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: 'de69ac03-7c1c-400d-9662-bad82fbcf266',
+  timestamp: '9/14/2025, 2:58:40 PM'
+}
+{
+  level: 'info',
+  message: 'Response Sent - GET /',
+  method: 'GET',
+  path: '/',
+  reqId: 'de69ac03-7c1c-400d-9662-bad82fbcf266',
+  responseTime: 0.28,
+  timestamp: '9/14/2025, 2:58:40 PM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api/v1/user/unknown-credit',
+  method: 'GET',
+  path: '/api/v1/user/unknown-credit',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: 'cf522b90-a1e5-412a-93fb-b3d10e4eaa10',
+  timestamp: '9/14/2025, 2:59:10 PM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api/v1/history',
+  method: 'GET',
+  path: '/api/v1/history',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: 'ff438303-f88a-4520-85f8-158171ce5992',
+  timestamp: '9/14/2025, 2:59:10 PM'
+}
+{
+  level: 'info',
+  message: 'Response Sent - GET /unknown-credit',
+  method: 'GET',
+  path: '/unknown-credit',
+  reqId: 'cf522b90-a1e5-412a-93fb-b3d10e4eaa10',
+  responseTime: 0.015,
+  timestamp: '9/14/2025, 2:59:10 PM'
+}
+{
+  level: 'info',
+  message: 'Response Sent - GET /',
+  method: 'GET',
+  path: '/',
+  reqId: 'ff438303-f88a-4520-85f8-158171ce5992',
+  responseTime: 0.27,
+  timestamp: '9/14/2025, 2:59:10 PM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api/v1/user/unknown-credit',
+  method: 'GET',
+  path: '/api/v1/user/unknown-credit',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: '1cdfea47-3ce9-4a54-b0a8-a0a3079aeeba',
+  timestamp: '9/14/2025, 3:12:34 PM'
+}
+{
+  level: 'info',
+  message: 'Response Sent - GET /unknown-credit',
+  method: 'GET',
+  path: '/unknown-credit',
+  reqId: '1cdfea47-3ce9-4a54-b0a8-a0a3079aeeba',
+  responseTime: 0.014,
+  timestamp: '9/14/2025, 3:12:34 PM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api/v1/user/unknown-credit',
+  method: 'GET',
+  path: '/api/v1/user/unknown-credit',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: 'dd279b38-ca91-4464-96f3-fb81ff86153a',
+  timestamp: '9/14/2025, 3:15:21 PM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api/v1/history',
+  method: 'GET',
+  path: '/api/v1/history',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: '1fe8b340-00cc-4d31-abd1-8fb600831275',
+  timestamp: '9/14/2025, 3:15:21 PM'
+}
+{
+  level: 'info',
+  message: 'Response Sent - GET /unknown-credit',
+  method: 'GET',
+  path: '/unknown-credit',
+  reqId: 'dd279b38-ca91-4464-96f3-fb81ff86153a',
+  responseTime: 0.015,
+  timestamp: '9/14/2025, 3:15:21 PM'
+}
+{
+  level: 'info',
+  message: 'Response Sent - GET /',
+  method: 'GET',
+  path: '/',
+  reqId: '1fe8b340-00cc-4d31-abd1-8fb600831275',
+  responseTime: 0.267,
+  timestamp: '9/14/2025, 3:15:22 PM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api/v1/user/unknown-credit',
+  method: 'GET',
+  path: '/api/v1/user/unknown-credit',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: '5a363cea-fe12-4790-9bb2-a8b452dafe73',
+  timestamp: '9/14/2025, 3:15:29 PM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api/v1/history',
+  method: 'GET',
+  path: '/api/v1/history',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: '3ec583c4-13cf-49b8-b7aa-24d0c871e35c',
+  timestamp: '9/14/2025, 3:15:29 PM'
+}
+{
+  level: 'info',
+  message: 'Response Sent - GET /unknown-credit',
+  method: 'GET',
+  path: '/unknown-credit',
+  reqId: '5a363cea-fe12-4790-9bb2-a8b452dafe73',
+  responseTime: 0.015,
+  timestamp: '9/14/2025, 3:15:29 PM'
+}
+{
+  level: 'info',
+  message: 'Response Sent - GET /',
+  method: 'GET',
+  path: '/',
+  reqId: '3ec583c4-13cf-49b8-b7aa-24d0c871e35c',
+  responseTime: 0.308,
+  timestamp: '9/14/2025, 3:15:29 PM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api/v1/user/unknown-credit',
+  method: 'GET',
+  path: '/api/v1/user/unknown-credit',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: '563c712c-ce07-439a-a33a-24bee4afcdad',
+  timestamp: '9/14/2025, 3:15:31 PM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api/v1/history',
+  method: 'GET',
+  path: '/api/v1/history',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: '26dac618-74c4-467b-9cb6-b74791f5aaf0',
+  timestamp: '9/14/2025, 3:15:31 PM'
+}
+{
+  level: 'info',
+  message: 'Response Sent - GET /unknown-credit',
+  method: 'GET',
+  path: '/unknown-credit',
+  reqId: '563c712c-ce07-439a-a33a-24bee4afcdad',
+  responseTime: 0.018,
+  timestamp: '9/14/2025, 3:15:31 PM'
+}
+{
+  level: 'info',
+  message: 'Response Sent - GET /',
+  method: 'GET',
+  path: '/',
+  reqId: '26dac618-74c4-467b-9cb6-b74791f5aaf0',
+  responseTime: 0.265,
+  timestamp: '9/14/2025, 3:15:31 PM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api/v1/user/unknown-credit',
+  method: 'GET',
+  path: '/api/v1/user/unknown-credit',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: 'e6ce3f51-a0f8-4884-9d0e-7eb9b146a2ee',
+  timestamp: '9/14/2025, 3:15:32 PM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api/v1/history',
+  method: 'GET',
+  path: '/api/v1/history',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: '0fa5c4e1-31db-4561-b9ba-c502b7d70aba',
+  timestamp: '9/14/2025, 3:15:32 PM'
+}
+{
+  level: 'info',
+  message: 'Response Sent - GET /unknown-credit',
+  method: 'GET',
+  path: '/unknown-credit',
+  reqId: 'e6ce3f51-a0f8-4884-9d0e-7eb9b146a2ee',
+  responseTime: 0.015,
+  timestamp: '9/14/2025, 3:15:32 PM'
+}
+{
+  level: 'info',
+  message: 'Response Sent - GET /',
+  method: 'GET',
+  path: '/',
+  reqId: '0fa5c4e1-31db-4561-b9ba-c502b7d70aba',
+  responseTime: 0.312,
+  timestamp: '9/14/2025, 3:15:32 PM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api/v1/user/unknown-credit',
+  method: 'GET',
+  path: '/api/v1/user/unknown-credit',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: '0ab254e3-380b-47f5-93a0-b65abaf5e88c',
+  timestamp: '9/14/2025, 3:15:46 PM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api/v1/history',
+  method: 'GET',
+  path: '/api/v1/history',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: '7dd9c8a7-4968-4e9c-a9a4-378d9fee9f5c',
+  timestamp: '9/14/2025, 3:15:46 PM'
+}
+{
+  level: 'info',
+  message: 'Response Sent - GET /unknown-credit',
+  method: 'GET',
+  path: '/unknown-credit',
+  reqId: '0ab254e3-380b-47f5-93a0-b65abaf5e88c',
+  responseTime: 0.018,
+  timestamp: '9/14/2025, 3:15:46 PM'
+}
+{
+  level: 'info',
+  message: 'Response Sent - GET /',
+  method: 'GET',
+  path: '/',
+  reqId: '7dd9c8a7-4968-4e9c-a9a4-378d9fee9f5c',
+  responseTime: 0.272,
+  timestamp: '9/14/2025, 3:15:46 PM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api/v1/user/unknown-credit',
+  method: 'GET',
+  path: '/api/v1/user/unknown-credit',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: '7634ee03-03d1-48e2-8cc7-cc92464a803e',
+  timestamp: '9/14/2025, 3:16:08 PM'
+}
+{
+  level: 'info',
+  message: 'Response Sent - GET /unknown-credit',
+  method: 'GET',
+  path: '/unknown-credit',
+  reqId: '7634ee03-03d1-48e2-8cc7-cc92464a803e',
+  responseTime: 0.025,
+  timestamp: '9/14/2025, 3:16:08 PM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api/v1/user/unknown-credit',
+  method: 'GET',
+  path: '/api/v1/user/unknown-credit',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: '9d844665-e771-4ba5-a11d-01c4fb5fdaf3',
+  timestamp: '9/14/2025, 3:16:13 PM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api/v1/history',
+  method: 'GET',
+  path: '/api/v1/history',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: 'f8d2d79c-48d3-47bc-a3f9-4ccce2294393',
+  timestamp: '9/14/2025, 3:16:13 PM'
+}
+{
+  level: 'info',
+  message: 'Response Sent - GET /unknown-credit',
+  method: 'GET',
+  path: '/unknown-credit',
+  reqId: '9d844665-e771-4ba5-a11d-01c4fb5fdaf3',
+  responseTime: 0.018,
+  timestamp: '9/14/2025, 3:16:13 PM'
+}
+{
+  level: 'info',
+  message: 'Response Sent - GET /',
+  method: 'GET',
+  path: '/',
+  reqId: 'f8d2d79c-48d3-47bc-a3f9-4ccce2294393',
+  responseTime: 0.31,
+  timestamp: '9/14/2025, 3:16:14 PM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api/v1/user/unknown-credit',
+  method: 'GET',
+  path: '/api/v1/user/unknown-credit',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: '0df80afa-a441-467c-8498-0459a38c7acb',
+  timestamp: '9/14/2025, 3:16:15 PM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api/v1/history',
+  method: 'GET',
+  path: '/api/v1/history',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: '33f7072c-9d33-46c9-be0c-fd9579d50d26',
+  timestamp: '9/14/2025, 3:16:15 PM'
+}
+{
+  level: 'info',
+  message: 'Response Sent - GET /unknown-credit',
+  method: 'GET',
+  path: '/unknown-credit',
+  reqId: '0df80afa-a441-467c-8498-0459a38c7acb',
+  responseTime: 0.016,
+  timestamp: '9/14/2025, 3:16:15 PM'
+}
+{
+  level: 'info',
+  message: 'Response Sent - GET /',
+  method: 'GET',
+  path: '/',
+  reqId: '33f7072c-9d33-46c9-be0c-fd9579d50d26',
+  responseTime: 0.321,
+  timestamp: '9/14/2025, 3:16:15 PM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api/v1/user/unknown-credit',
+  method: 'GET',
+  path: '/api/v1/user/unknown-credit',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: 'b0522846-7600-4316-9991-60651b72d566',
+  timestamp: '9/14/2025, 3:16:16 PM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api/v1/history',
+  method: 'GET',
+  path: '/api/v1/history',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: '6cb6c83a-8159-4d12-b66b-6cc4f8995cb6',
+  timestamp: '9/14/2025, 3:16:16 PM'
+}
+{
+  level: 'info',
+  message: 'Response Sent - GET /unknown-credit',
+  method: 'GET',
+  path: '/unknown-credit',
+  reqId: 'b0522846-7600-4316-9991-60651b72d566',
+  responseTime: 0.015,
+  timestamp: '9/14/2025, 3:16:16 PM'
+}
+{
+  level: 'info',
+  message: 'Response Sent - GET /',
+  method: 'GET',
+  path: '/',
+  reqId: '6cb6c83a-8159-4d12-b66b-6cc4f8995cb6',
+  responseTime: 0.288,
+  timestamp: '9/14/2025, 3:16:16 PM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api/v1/user/unknown-credit',
+  method: 'GET',
+  path: '/api/v1/user/unknown-credit',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: '63f470f2-9aea-4d18-a1c3-7550d95998dc',
+  timestamp: '9/14/2025, 3:16:17 PM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api/v1/history',
+  method: 'GET',
+  path: '/api/v1/history',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: '8abf3d72-db99-4cb0-b2ee-ee6cb1868b3c',
+  timestamp: '9/14/2025, 3:16:17 PM'
+}
+{
+  level: 'info',
+  message: 'Response Sent - GET /unknown-credit',
+  method: 'GET',
+  path: '/unknown-credit',
+  reqId: '63f470f2-9aea-4d18-a1c3-7550d95998dc',
+  responseTime: 0.015,
+  timestamp: '9/14/2025, 3:16:17 PM'
+}
+{
+  level: 'info',
+  message: 'Response Sent - GET /',
+  method: 'GET',
+  path: '/',
+  reqId: '8abf3d72-db99-4cb0-b2ee-ee6cb1868b3c',
+  responseTime: 0.355,
+  timestamp: '9/14/2025, 3:16:17 PM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api/v1/user/unknown-credit',
+  method: 'GET',
+  path: '/api/v1/user/unknown-credit',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: 'de94547c-d914-4500-ae68-e3a9b1791000',
+  timestamp: '9/14/2025, 3:16:18 PM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api/v1/history',
+  method: 'GET',
+  path: '/api/v1/history',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: 'b0604506-710e-424e-a141-736560906751',
+  timestamp: '9/14/2025, 3:16:18 PM'
+}
+{
+  level: 'info',
+  message: 'Response Sent - GET /unknown-credit',
+  method: 'GET',
+  path: '/unknown-credit',
+  reqId: 'de94547c-d914-4500-ae68-e3a9b1791000',
+  responseTime: 0.013,
+  timestamp: '9/14/2025, 3:16:18 PM'
+}
+{
+  level: 'info',
+  message: 'Response Sent - GET /',
+  method: 'GET',
+  path: '/',
+  reqId: 'b0604506-710e-424e-a141-736560906751',
+  responseTime: 0.329,
+  timestamp: '9/14/2025, 3:16:18 PM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api/v1/user/unknown-credit',
+  method: 'GET',
+  path: '/api/v1/user/unknown-credit',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: '068910b8-99ad-4e1c-a4a6-6ccaa1c604f6',
+  timestamp: '9/14/2025, 3:17:25 PM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api/v1/history',
+  method: 'GET',
+  path: '/api/v1/history',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: '49e5e11d-13e3-4ac4-ab2d-20708ff421e1',
+  timestamp: '9/14/2025, 3:17:25 PM'
+}
+{
+  level: 'info',
+  message: 'Response Sent - GET /unknown-credit',
+  method: 'GET',
+  path: '/unknown-credit',
+  reqId: '068910b8-99ad-4e1c-a4a6-6ccaa1c604f6',
+  responseTime: 0.014,
+  timestamp: '9/14/2025, 3:17:25 PM'
+}
+{
+  level: 'info',
+  message: 'Response Sent - GET /',
+  method: 'GET',
+  path: '/',
+  reqId: '49e5e11d-13e3-4ac4-ab2d-20708ff421e1',
+  responseTime: 0.323,
+  timestamp: '9/14/2025, 3:17:25 PM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api/v1/user/unknown-credit',
+  method: 'GET',
+  path: '/api/v1/user/unknown-credit',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: 'b1a4f98d-6cbf-4dcd-a79f-77b367bda772',
+  timestamp: '9/14/2025, 3:27:36 PM'
+}
+{
+  level: 'info',
+  message: 'Response Sent - GET /unknown-credit',
+  method: 'GET',
+  path: '/unknown-credit',
+  reqId: 'b1a4f98d-6cbf-4dcd-a79f-77b367bda772',
+  responseTime: 0.021,
+  timestamp: '9/14/2025, 3:27:36 PM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api/v1/user/unknown-credit',
+  method: 'GET',
+  path: '/api/v1/user/unknown-credit',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: '0cbf2c0d-6c58-46cc-9b9c-b26a4e8fb6cb',
+  timestamp: '9/14/2025, 3:30:14 PM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api/v1/history',
+  method: 'GET',
+  path: '/api/v1/history',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: 'c10d0b29-76e7-43cc-9e4b-a098e698c5ee',
+  timestamp: '9/14/2025, 3:30:14 PM'
+}
+{
+  level: 'info',
+  message: 'Response Sent - GET /unknown-credit',
+  method: 'GET',
+  path: '/unknown-credit',
+  reqId: '0cbf2c0d-6c58-46cc-9b9c-b26a4e8fb6cb',
+  responseTime: 0.012,
+  timestamp: '9/14/2025, 3:30:14 PM'
+}
+{
+  level: 'info',
+  message: 'Response Sent - GET /',
+  method: 'GET',
+  path: '/',
+  reqId: 'c10d0b29-76e7-43cc-9e4b-a098e698c5ee',
+  responseTime: 0.251,
+  timestamp: '9/14/2025, 3:30:15 PM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api/v1/user/unknown-credit',
+  method: 'GET',
+  path: '/api/v1/user/unknown-credit',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: 'eb600f4b-9a00-4fea-af15-6a1ec392d177',
+  timestamp: '9/14/2025, 3:30:16 PM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api/v1/history',
+  method: 'GET',
+  path: '/api/v1/history',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: '42467064-53c5-403a-b8f0-2d43b40ae706',
+  timestamp: '9/14/2025, 3:30:16 PM'
+}
+{
+  level: 'info',
+  message: 'Response Sent - GET /unknown-credit',
+  method: 'GET',
+  path: '/unknown-credit',
+  reqId: 'eb600f4b-9a00-4fea-af15-6a1ec392d177',
+  responseTime: 0.015,
+  timestamp: '9/14/2025, 3:30:16 PM'
+}
+{
+  level: 'info',
+  message: 'Response Sent - GET /',
+  method: 'GET',
+  path: '/',
+  reqId: '42467064-53c5-403a-b8f0-2d43b40ae706',
+  responseTime: 0.275,
+  timestamp: '9/14/2025, 3:30:16 PM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api/v1/user/unknown-credit',
+  method: 'GET',
+  path: '/api/v1/user/unknown-credit',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: '8847c654-5a4b-464f-a93a-1a8986d9b11d',
+  timestamp: '9/14/2025, 3:30:16 PM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api/v1/history',
+  method: 'GET',
+  path: '/api/v1/history',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: '916108af-88b1-4a6b-85f0-a4aabb5f5739',
+  timestamp: '9/14/2025, 3:30:16 PM'
+}
+{
+  level: 'info',
+  message: 'Response Sent - GET /unknown-credit',
+  method: 'GET',
+  path: '/unknown-credit',
+  reqId: '8847c654-5a4b-464f-a93a-1a8986d9b11d',
+  responseTime: 0.016,
+  timestamp: '9/14/2025, 3:30:16 PM'
+}
+{
+  level: 'info',
+  message: 'Response Sent - GET /',
+  method: 'GET',
+  path: '/',
+  reqId: '916108af-88b1-4a6b-85f0-a4aabb5f5739',
+  responseTime: 0.274,
+  timestamp: '9/14/2025, 3:30:17 PM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api/v1/user/unknown-credit',
+  method: 'GET',
+  path: '/api/v1/user/unknown-credit',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: '363b558e-de68-4858-8e48-c746b7dbd9da',
+  timestamp: '9/14/2025, 3:30:17 PM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api/v1/history',
+  method: 'GET',
+  path: '/api/v1/history',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: '13b6d55d-cb9d-4b06-a702-f3d2d0f638ab',
+  timestamp: '9/14/2025, 3:30:17 PM'
+}
+{
+  level: 'info',
+  message: 'Response Sent - GET /unknown-credit',
+  method: 'GET',
+  path: '/unknown-credit',
+  reqId: '363b558e-de68-4858-8e48-c746b7dbd9da',
+  responseTime: 0.018,
+  timestamp: '9/14/2025, 3:30:17 PM'
+}
+{
+  level: 'info',
+  message: 'Response Sent - GET /',
+  method: 'GET',
+  path: '/',
+  reqId: '13b6d55d-cb9d-4b06-a702-f3d2d0f638ab',
+  responseTime: 0.277,
+  timestamp: '9/14/2025, 3:30:17 PM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api/v1/user/unknown-credit',
+  method: 'GET',
+  path: '/api/v1/user/unknown-credit',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: '38ef7ae4-22cb-4cbd-a4e5-71d51e1015a5',
+  timestamp: '9/14/2025, 3:30:41 PM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api/v1/history',
+  method: 'GET',
+  path: '/api/v1/history',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: '34620c6d-88db-449e-a5f6-082417a36ffb',
+  timestamp: '9/14/2025, 3:30:41 PM'
+}
+{
+  level: 'info',
+  message: 'Response Sent - GET /unknown-credit',
+  method: 'GET',
+  path: '/unknown-credit',
+  reqId: '38ef7ae4-22cb-4cbd-a4e5-71d51e1015a5',
+  responseTime: 0.015,
+  timestamp: '9/14/2025, 3:30:41 PM'
+}
+{
+  level: 'info',
+  message: 'Response Sent - GET /',
+  method: 'GET',
+  path: '/',
+  reqId: '34620c6d-88db-449e-a5f6-082417a36ffb',
+  responseTime: 0.332,
+  timestamp: '9/14/2025, 3:30:41 PM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api/v1/user/unknown-credit',
+  method: 'GET',
+  path: '/api/v1/user/unknown-credit',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: 'f223cd56-cef2-488b-a85c-afababef68f5',
+  timestamp: '9/14/2025, 3:30:42 PM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api/v1/history',
+  method: 'GET',
+  path: '/api/v1/history',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: '3fc88342-6d5b-4adb-989a-78b0c5f7d076',
+  timestamp: '9/14/2025, 3:30:42 PM'
+}
+{
+  level: 'info',
+  message: 'Response Sent - GET /unknown-credit',
+  method: 'GET',
+  path: '/unknown-credit',
+  reqId: 'f223cd56-cef2-488b-a85c-afababef68f5',
+  responseTime: 0.023,
+  timestamp: '9/14/2025, 3:30:42 PM'
+}
+{
+  level: 'info',
+  message: 'Response Sent - GET /',
+  method: 'GET',
+  path: '/',
+  reqId: '3fc88342-6d5b-4adb-989a-78b0c5f7d076',
+  responseTime: 0.294,
+  timestamp: '9/14/2025, 3:30:42 PM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api/v1/user/unknown-credit',
+  method: 'GET',
+  path: '/api/v1/user/unknown-credit',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: 'd47c57fa-0f7c-46b9-8373-06689363ab21',
+  timestamp: '9/14/2025, 3:35:38 PM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api/v1/history',
+  method: 'GET',
+  path: '/api/v1/history',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: '3c016c97-7233-4dce-982b-35733d3b5cee',
+  timestamp: '9/14/2025, 3:35:38 PM'
+}
+{
+  level: 'info',
+  message: 'Response Sent - GET /unknown-credit',
+  method: 'GET',
+  path: '/unknown-credit',
+  reqId: 'd47c57fa-0f7c-46b9-8373-06689363ab21',
+  responseTime: 0.013,
+  timestamp: '9/14/2025, 3:35:38 PM'
+}
+{
+  level: 'info',
+  message: 'Response Sent - GET /',
+  method: 'GET',
+  path: '/',
+  reqId: '3c016c97-7233-4dce-982b-35733d3b5cee',
+  responseTime: 0.305,
+  timestamp: '9/14/2025, 3:35:39 PM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api/v1/user/unknown-credit',
+  method: 'GET',
+  path: '/api/v1/user/unknown-credit',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: '84412033-86b5-41d4-84dc-b6d721580d71',
+  timestamp: '9/14/2025, 3:36:15 PM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api/v1/history',
+  method: 'GET',
+  path: '/api/v1/history',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: '2aa880d1-6ded-4b70-9ff1-47b05de16ae5',
+  timestamp: '9/14/2025, 3:36:15 PM'
+}
+{
+  level: 'info',
+  message: 'Response Sent - GET /unknown-credit',
+  method: 'GET',
+  path: '/unknown-credit',
+  reqId: '84412033-86b5-41d4-84dc-b6d721580d71',
+  responseTime: 0.014,
+  timestamp: '9/14/2025, 3:36:15 PM'
+}
+{
+  level: 'info',
+  message: 'Response Sent - GET /',
+  method: 'GET',
+  path: '/',
+  reqId: '2aa880d1-6ded-4b70-9ff1-47b05de16ae5',
+  responseTime: 0.282,
+  timestamp: '9/14/2025, 3:36:16 PM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api/v1/user/unknown-credit',
+  method: 'GET',
+  path: '/api/v1/user/unknown-credit',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: 'd312a40d-c531-4c88-928a-4f259890633b',
+  timestamp: '9/14/2025, 3:39:37 PM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api/v1/history',
+  method: 'GET',
+  path: '/api/v1/history',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: '7a8a1f3d-f4ed-44e9-9ecb-c33782810da4',
+  timestamp: '9/14/2025, 3:39:37 PM'
+}
+{
+  level: 'info',
+  message: 'Response Sent - GET /unknown-credit',
+  method: 'GET',
+  path: '/unknown-credit',
+  reqId: 'd312a40d-c531-4c88-928a-4f259890633b',
+  responseTime: 0.014,
+  timestamp: '9/14/2025, 3:39:37 PM'
+}
+{
+  level: 'info',
+  message: 'Response Sent - GET /',
+  method: 'GET',
+  path: '/',
+  reqId: '7a8a1f3d-f4ed-44e9-9ecb-c33782810da4',
+  responseTime: 0.325,
+  timestamp: '9/14/2025, 3:39:37 PM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api/v1/user/unknown-credit',
+  method: 'GET',
+  path: '/api/v1/user/unknown-credit',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: '391f8256-7534-4562-9c52-954e22aca548',
+  timestamp: '9/14/2025, 3:39:38 PM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api/v1/history',
+  method: 'GET',
+  path: '/api/v1/history',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: 'd44438e3-48c1-4beb-9126-30ef68fadbdb',
+  timestamp: '9/14/2025, 3:39:38 PM'
+}
+{
+  level: 'info',
+  message: 'Response Sent - GET /unknown-credit',
+  method: 'GET',
+  path: '/unknown-credit',
+  reqId: '391f8256-7534-4562-9c52-954e22aca548',
+  responseTime: 0.013,
+  timestamp: '9/14/2025, 3:39:38 PM'
+}
+{
+  level: 'info',
+  message: 'Response Sent - GET /',
+  method: 'GET',
+  path: '/',
+  reqId: 'd44438e3-48c1-4beb-9126-30ef68fadbdb',
+  responseTime: 0.317,
+  timestamp: '9/14/2025, 3:39:38 PM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api/v1/user/unknown-credit',
+  method: 'GET',
+  path: '/api/v1/user/unknown-credit',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: '14f83f30-6e57-403a-bd85-c0775a4b6990',
+  timestamp: '9/14/2025, 3:39:39 PM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api/v1/history',
+  method: 'GET',
+  path: '/api/v1/history',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: 'c8ed2a20-5d05-4028-b7f2-da3695992715',
+  timestamp: '9/14/2025, 3:39:39 PM'
+}
+{
+  level: 'info',
+  message: 'Response Sent - GET /unknown-credit',
+  method: 'GET',
+  path: '/unknown-credit',
+  reqId: '14f83f30-6e57-403a-bd85-c0775a4b6990',
+  responseTime: 0.012,
+  timestamp: '9/14/2025, 3:39:39 PM'
+}
+{
+  level: 'info',
+  message: 'Response Sent - GET /',
+  method: 'GET',
+  path: '/',
+  reqId: 'c8ed2a20-5d05-4028-b7f2-da3695992715',
+  responseTime: 0.319,
+  timestamp: '9/14/2025, 3:39:40 PM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api/v1/user/unknown-credit',
+  method: 'GET',
+  path: '/api/v1/user/unknown-credit',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: '6ccc3aa7-544e-46ca-8735-a4fae2c60005',
+  timestamp: '9/14/2025, 3:39:40 PM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api/v1/history',
+  method: 'GET',
+  path: '/api/v1/history',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: 'fdd74af3-deec-4a82-b0cb-7a6a76418f23',
+  timestamp: '9/14/2025, 3:39:40 PM'
+}
+{
+  level: 'info',
+  message: 'Response Sent - GET /unknown-credit',
+  method: 'GET',
+  path: '/unknown-credit',
+  reqId: '6ccc3aa7-544e-46ca-8735-a4fae2c60005',
+  responseTime: 0.026,
+  timestamp: '9/14/2025, 3:39:40 PM'
+}
+{
+  level: 'info',
+  message: 'Response Sent - GET /',
+  method: 'GET',
+  path: '/',
+  reqId: 'fdd74af3-deec-4a82-b0cb-7a6a76418f23',
+  responseTime: 0.275,
+  timestamp: '9/14/2025, 3:39:40 PM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api/v1/user/unknown-credit',
+  method: 'GET',
+  path: '/api/v1/user/unknown-credit',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: '58550821-16e8-414c-8abb-2d0e6580546c',
+  timestamp: '9/14/2025, 3:39:41 PM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api/v1/history',
+  method: 'GET',
+  path: '/api/v1/history',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: 'd7d2f188-25c6-4d69-b88b-5baeece896f8',
+  timestamp: '9/14/2025, 3:39:41 PM'
+}
+{
+  level: 'info',
+  message: 'Response Sent - GET /unknown-credit',
+  method: 'GET',
+  path: '/unknown-credit',
+  reqId: '58550821-16e8-414c-8abb-2d0e6580546c',
+  responseTime: 0.029,
+  timestamp: '9/14/2025, 3:39:41 PM'
+}
+{
+  level: 'info',
+  message: 'Response Sent - GET /',
+  method: 'GET',
+  path: '/',
+  reqId: 'd7d2f188-25c6-4d69-b88b-5baeece896f8',
+  responseTime: 0.33,
+  timestamp: '9/14/2025, 3:39:41 PM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api/v1/user/unknown-credit',
+  method: 'GET',
+  path: '/api/v1/user/unknown-credit',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: '441b47ca-b738-4daf-8551-857869db9b58',
+  timestamp: '9/14/2025, 3:39:42 PM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api/v1/history',
+  method: 'GET',
+  path: '/api/v1/history',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: 'b4eba780-734e-4914-be0c-5ab86061d61d',
+  timestamp: '9/14/2025, 3:39:42 PM'
+}
+{
+  level: 'info',
+  message: 'Response Sent - GET /unknown-credit',
+  method: 'GET',
+  path: '/unknown-credit',
+  reqId: '441b47ca-b738-4daf-8551-857869db9b58',
+  responseTime: 0.012,
+  timestamp: '9/14/2025, 3:39:42 PM'
+}
+{
+  level: 'info',
+  message: 'Response Sent - GET /',
+  method: 'GET',
+  path: '/',
+  reqId: 'b4eba780-734e-4914-be0c-5ab86061d61d',
+  responseTime: 0.29,
+  timestamp: '9/14/2025, 3:39:42 PM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api/v1/user/unknown-credit',
+  method: 'GET',
+  path: '/api/v1/user/unknown-credit',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: 'ed9c8fe8-045b-4f65-bb45-d4b92fa5f5a1',
+  timestamp: '9/14/2025, 3:41:54 PM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api/v1/history',
+  method: 'GET',
+  path: '/api/v1/history',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: 'e847ce54-a11f-48b0-8bf0-2bc7407835db',
+  timestamp: '9/14/2025, 3:41:54 PM'
+}
+{
+  level: 'info',
+  message: 'Response Sent - GET /unknown-credit',
+  method: 'GET',
+  path: '/unknown-credit',
+  reqId: 'ed9c8fe8-045b-4f65-bb45-d4b92fa5f5a1',
+  responseTime: 0.013,
+  timestamp: '9/14/2025, 3:41:54 PM'
+}
+{
+  level: 'info',
+  message: 'Response Sent - GET /',
+  method: 'GET',
+  path: '/',
+  reqId: 'e847ce54-a11f-48b0-8bf0-2bc7407835db',
+  responseTime: 0.359,
+  timestamp: '9/14/2025, 3:41:54 PM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api/v1/user/unknown-credit',
+  method: 'GET',
+  path: '/api/v1/user/unknown-credit',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: '4d3c2187-3c97-469c-a785-26959d08ae13',
+  timestamp: '9/14/2025, 3:43:25 PM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api/v1/history',
+  method: 'GET',
+  path: '/api/v1/history',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: '00b7bd09-c9de-46b1-b674-232de3bd8270',
+  timestamp: '9/14/2025, 3:43:25 PM'
+}
+{
+  level: 'info',
+  message: 'Response Sent - GET /unknown-credit',
+  method: 'GET',
+  path: '/unknown-credit',
+  reqId: '4d3c2187-3c97-469c-a785-26959d08ae13',
+  responseTime: 0.017,
+  timestamp: '9/14/2025, 3:43:25 PM'
+}
+{
+  level: 'info',
+  message: 'Response Sent - GET /',
+  method: 'GET',
+  path: '/',
+  reqId: '00b7bd09-c9de-46b1-b674-232de3bd8270',
+  responseTime: 0.299,
+  timestamp: '9/14/2025, 3:43:25 PM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api/v1/user/unknown-credit',
+  method: 'GET',
+  path: '/api/v1/user/unknown-credit',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: '7116ada1-18a7-49fc-91a0-283d6a632dde',
+  timestamp: '9/14/2025, 3:44:13 PM'
+}
+{
+  level: 'info',
+  message: 'Response Sent - GET /unknown-credit',
+  method: 'GET',
+  path: '/unknown-credit',
+  reqId: '7116ada1-18a7-49fc-91a0-283d6a632dde',
+  responseTime: 0.011,
+  timestamp: '9/14/2025, 3:44:13 PM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api/v1/user/unknown-credit',
+  method: 'GET',
+  path: '/api/v1/user/unknown-credit',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: '7da1303a-7866-40df-b946-11b128bc01f8',
+  timestamp: '9/14/2025, 3:44:38 PM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api/v1/history',
+  method: 'GET',
+  path: '/api/v1/history',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: 'f90ba86b-dfa4-4250-86fa-49ac8741ccec',
+  timestamp: '9/14/2025, 3:44:38 PM'
+}
+{
+  level: 'info',
+  message: 'Response Sent - GET /unknown-credit',
+  method: 'GET',
+  path: '/unknown-credit',
+  reqId: '7da1303a-7866-40df-b946-11b128bc01f8',
+  responseTime: 0.011,
+  timestamp: '9/14/2025, 3:44:38 PM'
+}
+{
+  level: 'info',
+  message: 'Response Sent - GET /',
+  method: 'GET',
+  path: '/',
+  reqId: 'f90ba86b-dfa4-4250-86fa-49ac8741ccec',
+  responseTime: 0.391,
+  timestamp: '9/14/2025, 3:44:38 PM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api/v1/user/unknown-credit',
+  method: 'GET',
+  path: '/api/v1/user/unknown-credit',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: '083d5b76-5680-43d6-b1dd-09313c2285de',
+  timestamp: '9/14/2025, 3:44:53 PM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api/v1/history',
+  method: 'GET',
+  path: '/api/v1/history',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: 'b6db6e34-259c-454f-88fb-9661513f51d4',
+  timestamp: '9/14/2025, 3:44:53 PM'
+}
+{
+  level: 'info',
+  message: 'Response Sent - GET /unknown-credit',
+  method: 'GET',
+  path: '/unknown-credit',
+  reqId: '083d5b76-5680-43d6-b1dd-09313c2285de',
+  responseTime: 0.012,
+  timestamp: '9/14/2025, 3:44:53 PM'
+}
+{
+  level: 'info',
+  message: 'Response Sent - GET /',
+  method: 'GET',
+  path: '/',
+  reqId: 'b6db6e34-259c-454f-88fb-9661513f51d4',
+  responseTime: 0.32,
+  timestamp: '9/14/2025, 3:44:54 PM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api/v1/user/unknown-credit',
+  method: 'GET',
+  path: '/api/v1/user/unknown-credit',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: 'cf8b8bb2-bc9a-46d0-acc9-bc5b16461141',
+  timestamp: '9/14/2025, 3:46:08 PM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api/v1/history',
+  method: 'GET',
+  path: '/api/v1/history',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: '7d5af8cf-0ade-490e-9dab-a78b75876308',
+  timestamp: '9/14/2025, 3:46:08 PM'
+}
+{
+  level: 'info',
+  message: 'Response Sent - GET /unknown-credit',
+  method: 'GET',
+  path: '/unknown-credit',
+  reqId: 'cf8b8bb2-bc9a-46d0-acc9-bc5b16461141',
+  responseTime: 0.014,
+  timestamp: '9/14/2025, 3:46:08 PM'
+}
+{
+  level: 'info',
+  message: 'Response Sent - GET /',
+  method: 'GET',
+  path: '/',
+  reqId: '7d5af8cf-0ade-490e-9dab-a78b75876308',
+  responseTime: 0.37,
+  timestamp: '9/14/2025, 3:46:08 PM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api/v1/user/unknown-credit',
+  method: 'GET',
+  path: '/api/v1/user/unknown-credit',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: 'c8ba56ba-8dbe-4b96-9442-5c56217acb9d',
+  timestamp: '9/14/2025, 3:47:34 PM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api/v1/history',
+  method: 'GET',
+  path: '/api/v1/history',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: 'f0548e64-0a37-4092-a5e1-87c2c7f656cd',
+  timestamp: '9/14/2025, 3:47:34 PM'
+}
+{
+  level: 'info',
+  message: 'Response Sent - GET /unknown-credit',
+  method: 'GET',
+  path: '/unknown-credit',
+  reqId: 'c8ba56ba-8dbe-4b96-9442-5c56217acb9d',
+  responseTime: 0.014,
+  timestamp: '9/14/2025, 3:47:34 PM'
+}
+{
+  level: 'info',
+  message: 'Response Sent - GET /',
+  method: 'GET',
+  path: '/',
+  reqId: 'f0548e64-0a37-4092-a5e1-87c2c7f656cd',
+  responseTime: 0.567,
+  timestamp: '9/14/2025, 3:47:34 PM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api/v1/user/unknown-credit',
+  method: 'GET',
+  path: '/api/v1/user/unknown-credit',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: 'ef635a28-b8b9-4764-86bc-39dc90afdc7a',
+  timestamp: '9/14/2025, 3:47:44 PM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api/v1/history',
+  method: 'GET',
+  path: '/api/v1/history',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: '2097a2c3-33de-485c-b2c4-3cc3f507fb0d',
+  timestamp: '9/14/2025, 3:47:44 PM'
+}
+{
+  level: 'info',
+  message: 'Response Sent - GET /unknown-credit',
+  method: 'GET',
+  path: '/unknown-credit',
+  reqId: 'ef635a28-b8b9-4764-86bc-39dc90afdc7a',
+  responseTime: 0.015,
+  timestamp: '9/14/2025, 3:47:44 PM'
+}
+{
+  level: 'info',
+  message: 'Response Sent - GET /',
+  method: 'GET',
+  path: '/',
+  reqId: '2097a2c3-33de-485c-b2c4-3cc3f507fb0d',
+  responseTime: 0.34,
+  timestamp: '9/14/2025, 3:47:44 PM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api/v1/user/unknown-credit',
+  method: 'GET',
+  path: '/api/v1/user/unknown-credit',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: '58178396-3b25-43e7-8ea1-ef77fa8f261c',
+  timestamp: '9/14/2025, 3:47:50 PM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api/v1/history',
+  method: 'GET',
+  path: '/api/v1/history',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: 'd75ce4b0-0cea-453e-9934-66e2c5878363',
+  timestamp: '9/14/2025, 3:47:50 PM'
+}
+{
+  level: 'info',
+  message: 'Response Sent - GET /unknown-credit',
+  method: 'GET',
+  path: '/unknown-credit',
+  reqId: '58178396-3b25-43e7-8ea1-ef77fa8f261c',
+  responseTime: 0.017,
+  timestamp: '9/14/2025, 3:47:50 PM'
+}
+{
+  level: 'info',
+  message: 'Response Sent - GET /',
+  method: 'GET',
+  path: '/',
+  reqId: 'd75ce4b0-0cea-453e-9934-66e2c5878363',
+  responseTime: 0.309,
+  timestamp: '9/14/2025, 3:47:50 PM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api/v1/user/unknown-credit',
+  method: 'GET',
+  path: '/api/v1/user/unknown-credit',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: '5a1c7d86-189a-48a9-96d9-7e3f350e5cf1',
+  timestamp: '9/14/2025, 3:48:07 PM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api/v1/history',
+  method: 'GET',
+  path: '/api/v1/history',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: '825e5d7d-f94d-4d1c-b9d8-393fd63663e7',
+  timestamp: '9/14/2025, 3:48:07 PM'
+}
+{
+  level: 'info',
+  message: 'Response Sent - GET /unknown-credit',
+  method: 'GET',
+  path: '/unknown-credit',
+  reqId: '5a1c7d86-189a-48a9-96d9-7e3f350e5cf1',
+  responseTime: 0.015,
+  timestamp: '9/14/2025, 3:48:07 PM'
+}
+{
+  level: 'info',
+  message: 'Response Sent - GET /',
+  method: 'GET',
+  path: '/',
+  reqId: '825e5d7d-f94d-4d1c-b9d8-393fd63663e7',
+  responseTime: 0.3,
+  timestamp: '9/14/2025, 3:48:07 PM'
+}

@@ -1,0 +1,96 @@
+paths:
+  /user/register:
+    post:
+      tags:
+        - "Authentication"
+      summary: "Sign Up"
+      description: "Register a new user."
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:      
+              type: "object"
+              properties:
+                username:
+                  type: "string"
+                email:
+                  type: "string"    
+                password:
+                  type: "string"
+      responses:
+        200:
+          description: "Successful Operation"
+          schema:
+            type: "object"
+            properties:
+              success:
+                type: "boolean"
+              data:
+                type: "object"
+                properties:
+                  success:
+                    type: "boolean"
+                  message:
+                    type: "string"
+                    example: "Registration Successful!"    
+                  user:
+                    type: "object"
+                    properties:
+                      username: "string"
+                  token:
+                    type: "string"
+  /user/login:
+    post:
+      tags:
+        - "Authentication"
+      summary: "Sign In"
+      description: "Login an existing user."
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:      
+              type: "object"
+              properties:
+                email:
+                  type: "string"
+                  example: "john@doe.com"
+                password:
+                  type: "string"
+                  example: "thisisapassword"
+      responses:
+        200:
+          description: "Successful Operation"
+          schema:
+            type: "object"
+            properties:
+              success:
+                type: "boolean"
+              message:
+                type: "string"
+                example: "Login Successful!"
+              user:
+                type: "object"
+                properties:
+                  username: "string"
+              token:
+                type: "string" 
+  /user/unknown-credit:
+    get:
+      security: 
+        - bearerAuth: []
+      tags:
+        - "Unknown Credit"
+      description: "Fetch user's unknown credits left"
+      responses:
+        200:
+          schema:
+            type: "object"
+            properties:
+              success: "boolean"
+              user:
+                type: "object"
+                properties:
+                  username: "string"
+              uc: "number"

@@ -1,0 +1,134 @@
+paths:
+  /history:
+    get:
+      security:
+        - bearerAuth: []
+      tags:
+        - "History"
+      description: "Get all history entries for the authenticated user with pagination."
+      parameters:
+        - name: "page"
+          in: "query"
+          description: "Page number for pagination."
+          required: false
+          type: "integer"
+          example: 1
+        - name: "limit"
+          in: "query"
+          description: "Number of history entries per page."
+          required: false
+          type: "integer"
+          example: 10
+      responses:
+        200:
+          description: "Successful Operation"
+          schema:
+            type: "object"
+            properties:
+              success:
+                type: "boolean"
+              total:
+                type: "integer"
+              page:
+                type: "integer"
+              limit:
+                type: "integer"
+              data:
+                type: "array"
+                items:
+                  type: "object"
+                  properties:
+                    name:
+                      type: "string"
+                    url:
+                      type: "string"
+
+  /history/{id}:
+    get:
+      security:
+        - bearerAuth: []
+      tags:
+        - "History"
+      description: "Get a specific history entry by ID for the authenticated user."
+      parameters:
+        - name: "id"
+          in: "path"
+          description: "History ID"
+          required: true
+          type: "string"
+      responses:
+        200:
+          description: "Successful Operation"
+          schema:
+            type: "object"
+            properties:
+              success:
+                type: "boolean"
+              data:
+                type: "object"
+                properties:
+                  name:
+                    type: "string"
+                  url:
+                    type: "string"
+
+    put:
+      security:
+        - bearerAuth: []
+      tags:
+        - "History"
+      description: "Edit a specific history entry by ID for the authenticated user."
+      parameters:
+        - name: "id"
+          in: "path"
+          description: "History ID"
+          required: true
+          type: "string"
+        - name: "body"
+          in: "body"
+          description: "Updated history data."
+          required: true
+          schema:
+            type: "object"
+            properties:
+              historyName:
+                type: "string"
+      responses:
+        200:
+          description: "Successful Operation"
+          schema:
+            type: "object"
+            properties:
+              success:
+                type: "boolean"
+              data:
+                type: "object"
+                properties:
+                  name:
+                    type: "string"
+                  url:
+                    type: "string"
+
+    delete:
+      security:
+        - bearerAuth: []
+      tags:
+        - "History"
+      description: "Delete a specific history entry by ID for the authenticated user."
+      parameters:
+        - name: "id"
+          in: "path"
+          description: "History ID"
+          required: true
+          type: "string"
+      responses:
+        200:
+          description: "Successful Operation"
+          schema:
+            type: "object"
+            properties:
+              success:
+                type: "boolean"
+              message:
+                type: "string"
+                example: "History has been deleted"

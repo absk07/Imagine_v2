@@ -1,0 +1,1514 @@
+{
+  level: 'info',
+  message: 'Incoming Request - POST /api/v1/user/login',
+  method: 'POST',
+  path: '/api/v1/user/login',
+  query: [Object: null prototype] {},
+  body: { email: 'absk@gmail.com', password: '******' },
+  reqId: 'eb2065c5-881f-4897-9adc-2d56341bda9f',
+  timestamp: '8/31/2025, 1:18:54 AM'
+}
+{
+  level: 'info',
+  message: 'Response Sent - POST /login',
+  method: 'POST',
+  path: '/login',
+  reqId: 'eb2065c5-881f-4897-9adc-2d56341bda9f',
+  responseTime: 1.115,
+  timestamp: '8/31/2025, 1:18:55 AM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api/v1/user/unknown-credit',
+  method: 'GET',
+  path: '/api/v1/user/unknown-credit',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: '9885cc3b-eafb-4174-93b3-0ba3ee10a411',
+  timestamp: '8/31/2025, 1:18:55 AM'
+}
+{
+  level: 'info',
+  message: 'Response Sent - GET /unknown-credit',
+  method: 'GET',
+  path: '/unknown-credit',
+  reqId: '9885cc3b-eafb-4174-93b3-0ba3ee10a411',
+  responseTime: 0.061,
+  timestamp: '8/31/2025, 1:18:55 AM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /ping',
+  method: 'GET',
+  path: '/ping',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: '8bcd2de0-a699-42a9-951c-1e202e2ff880',
+  timestamp: '8/31/2025, 1:27:46 AM'
+}
+{
+  level: 'info',
+  message: 'Response Sent - GET /ping',
+  method: 'GET',
+  path: '/ping',
+  reqId: '8bcd2de0-a699-42a9-951c-1e202e2ff880',
+  responseTime: 0.017,
+  timestamp: '8/31/2025, 1:27:46 AM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api-docs',
+  method: 'GET',
+  path: '/api-docs',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: '52df9014-2f0c-49b1-97b3-f1f88cb0ab29',
+  timestamp: '8/31/2025, 1:27:51 AM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api-docs/',
+  method: 'GET',
+  path: '/api-docs/',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: '814b1530-203f-4f9b-9e10-4d0c95ae2bb3',
+  timestamp: '8/31/2025, 1:27:51 AM'
+}
+{
+  level: 'info',
+  message: 'Response Sent - GET /',
+  method: 'GET',
+  path: '/',
+  reqId: '814b1530-203f-4f9b-9e10-4d0c95ae2bb3',
+  responseTime: 0.002,
+  timestamp: '8/31/2025, 1:27:51 AM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api-docs/swagger-ui.css',
+  method: 'GET',
+  path: '/api-docs/swagger-ui.css',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: '5c59de00-405f-435a-a15d-e91023099883',
+  timestamp: '8/31/2025, 1:27:51 AM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api-docs/swagger-ui-bundle.js',
+  method: 'GET',
+  path: '/api-docs/swagger-ui-bundle.js',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: '468ab3f7-5f14-4029-918b-181fa671b12f',
+  timestamp: '8/31/2025, 1:27:51 AM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api-docs/swagger-ui-standalone-preset.js',
+  method: 'GET',
+  path: '/api-docs/swagger-ui-standalone-preset.js',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: '29338461-d268-447b-9fee-6c8112060766',
+  timestamp: '8/31/2025, 1:27:51 AM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api-docs/swagger-ui-init.js',
+  method: 'GET',
+  path: '/api-docs/swagger-ui-init.js',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: 'acea6a56-7fa7-467b-9de5-7d1b058f3baf',
+  timestamp: '8/31/2025, 1:27:51 AM'
+}
+{
+  level: 'info',
+  message: 'Response Sent - GET /swagger-ui-init.js',
+  method: 'GET',
+  path: '/swagger-ui-init.js',
+  reqId: 'acea6a56-7fa7-467b-9de5-7d1b058f3baf',
+  responseTime: 0.001,
+  timestamp: '8/31/2025, 1:27:51 AM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api-docs/favicon-32x32.png',
+  method: 'GET',
+  path: '/api-docs/favicon-32x32.png',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: '7cb1dcc5-e2c4-49e0-9e8a-b7fefb4187d8',
+  timestamp: '8/31/2025, 1:27:51 AM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api-docs/',
+  method: 'GET',
+  path: '/api-docs/',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: '46fac79e-0e39-4ad0-a1ce-bd44f8c1e00b',
+  timestamp: '8/31/2025, 1:28:39 AM'
+}
+{
+  level: 'info',
+  message: 'Response Sent - GET /',
+  method: 'GET',
+  path: '/',
+  reqId: '46fac79e-0e39-4ad0-a1ce-bd44f8c1e00b',
+  responseTime: 0.062,
+  timestamp: '8/31/2025, 1:28:39 AM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api-docs/swagger-ui.css',
+  method: 'GET',
+  path: '/api-docs/swagger-ui.css',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: '4409faca-0c3d-4bfc-9890-0929d5fb3895',
+  timestamp: '8/31/2025, 1:28:39 AM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api-docs/swagger-ui-bundle.js',
+  method: 'GET',
+  path: '/api-docs/swagger-ui-bundle.js',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: 'abe941f1-31b7-496e-8d62-acbabeb78571',
+  timestamp: '8/31/2025, 1:28:39 AM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api-docs/swagger-ui-standalone-preset.js',
+  method: 'GET',
+  path: '/api-docs/swagger-ui-standalone-preset.js',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: '428839db-a4a6-4cc5-b62f-1deaea536546',
+  timestamp: '8/31/2025, 1:28:39 AM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api-docs/swagger-ui-init.js',
+  method: 'GET',
+  path: '/api-docs/swagger-ui-init.js',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: 'fd05cd7b-81d0-407e-b980-b17902c1b789',
+  timestamp: '8/31/2025, 1:28:39 AM'
+}
+{
+  level: 'info',
+  message: 'Response Sent - GET /swagger-ui-init.js',
+  method: 'GET',
+  path: '/swagger-ui-init.js',
+  reqId: 'fd05cd7b-81d0-407e-b980-b17902c1b789',
+  responseTime: 0.001,
+  timestamp: '8/31/2025, 1:28:39 AM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api-docs/favicon-32x32.png',
+  method: 'GET',
+  path: '/api-docs/favicon-32x32.png',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: '5ab077c8-adf9-4913-a3e3-bde8be53dc7b',
+  timestamp: '8/31/2025, 1:28:39 AM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api-docs/',
+  method: 'GET',
+  path: '/api-docs/',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: '18543f0b-1063-4f56-8a3a-953b79ab4690',
+  timestamp: '8/31/2025, 1:30:02 AM'
+}
+{
+  level: 'info',
+  message: 'Response Sent - GET /',
+  method: 'GET',
+  path: '/',
+  reqId: '18543f0b-1063-4f56-8a3a-953b79ab4690',
+  responseTime: 0.02,
+  timestamp: '8/31/2025, 1:30:02 AM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api-docs/swagger-ui.css',
+  method: 'GET',
+  path: '/api-docs/swagger-ui.css',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: '5b7a5032-020f-4365-a78f-ec1c2e45326f',
+  timestamp: '8/31/2025, 1:30:02 AM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api-docs/swagger-ui-bundle.js',
+  method: 'GET',
+  path: '/api-docs/swagger-ui-bundle.js',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: 'ff62e030-a978-4206-a32c-6acdd5556388',
+  timestamp: '8/31/2025, 1:30:02 AM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api-docs/swagger-ui-standalone-preset.js',
+  method: 'GET',
+  path: '/api-docs/swagger-ui-standalone-preset.js',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: 'b8fb4cb3-0c41-4be4-a61a-bc85f21abde4',
+  timestamp: '8/31/2025, 1:30:02 AM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api-docs/swagger-ui-init.js',
+  method: 'GET',
+  path: '/api-docs/swagger-ui-init.js',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: 'ae59c201-41ba-4400-8388-572c78bcde8e',
+  timestamp: '8/31/2025, 1:30:02 AM'
+}
+{
+  level: 'info',
+  message: 'Response Sent - GET /swagger-ui-init.js',
+  method: 'GET',
+  path: '/swagger-ui-init.js',
+  reqId: 'ae59c201-41ba-4400-8388-572c78bcde8e',
+  responseTime: 0.001,
+  timestamp: '8/31/2025, 1:30:02 AM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api-docs/favicon-32x32.png',
+  method: 'GET',
+  path: '/api-docs/favicon-32x32.png',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: '4aef837f-b648-4ae7-ba73-7b4abbbf7fa1',
+  timestamp: '8/31/2025, 1:30:02 AM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api-docs/',
+  method: 'GET',
+  path: '/api-docs/',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: 'a2363af7-1dce-43a7-96b4-f55f7d8af172',
+  timestamp: '8/31/2025, 1:37:32 AM'
+}
+{
+  level: 'info',
+  message: 'Response Sent - GET /',
+  method: 'GET',
+  path: '/',
+  reqId: 'a2363af7-1dce-43a7-96b4-f55f7d8af172',
+  responseTime: 0.151,
+  timestamp: '8/31/2025, 1:37:32 AM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api-docs/swagger-ui.css',
+  method: 'GET',
+  path: '/api-docs/swagger-ui.css',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: 'bdd03025-4044-4dd1-a85b-83afb93658c4',
+  timestamp: '8/31/2025, 1:37:32 AM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api-docs/swagger-ui-bundle.js',
+  method: 'GET',
+  path: '/api-docs/swagger-ui-bundle.js',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: '543d7c63-2a3b-40e0-abb1-1b96e82e7ea2',
+  timestamp: '8/31/2025, 1:37:32 AM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api-docs/swagger-ui-standalone-preset.js',
+  method: 'GET',
+  path: '/api-docs/swagger-ui-standalone-preset.js',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: '3c91634d-2b28-4bf2-b2cc-ec3d24ee154d',
+  timestamp: '8/31/2025, 1:37:32 AM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api-docs/swagger-ui-init.js',
+  method: 'GET',
+  path: '/api-docs/swagger-ui-init.js',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: 'b00fa5e6-f72d-4742-b319-f15efe9a6ae3',
+  timestamp: '8/31/2025, 1:37:32 AM'
+}
+{
+  level: 'info',
+  message: 'Response Sent - GET /swagger-ui-init.js',
+  method: 'GET',
+  path: '/swagger-ui-init.js',
+  reqId: 'b00fa5e6-f72d-4742-b319-f15efe9a6ae3',
+  responseTime: 0.001,
+  timestamp: '8/31/2025, 1:37:32 AM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api-docs/favicon-32x32.png',
+  method: 'GET',
+  path: '/api-docs/favicon-32x32.png',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: 'f4635a04-66c9-4423-8226-a8252c6b7d68',
+  timestamp: '8/31/2025, 1:37:33 AM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api-docs/',
+  method: 'GET',
+  path: '/api-docs/',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: '231ab732-f5c7-4ba5-b97d-95844d0cf9b6',
+  timestamp: '8/31/2025, 1:37:34 AM'
+}
+{
+  level: 'info',
+  message: 'Response Sent - GET /',
+  method: 'GET',
+  path: '/',
+  reqId: '231ab732-f5c7-4ba5-b97d-95844d0cf9b6',
+  responseTime: 0.001,
+  timestamp: '8/31/2025, 1:37:34 AM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api-docs/swagger-ui.css',
+  method: 'GET',
+  path: '/api-docs/swagger-ui.css',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: '344803cf-9f0a-4b63-9965-76764a9c19b3',
+  timestamp: '8/31/2025, 1:37:34 AM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api-docs/swagger-ui-bundle.js',
+  method: 'GET',
+  path: '/api-docs/swagger-ui-bundle.js',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: '722a1fa1-912c-479e-8155-65973ad1c2db',
+  timestamp: '8/31/2025, 1:37:34 AM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api-docs/swagger-ui-standalone-preset.js',
+  method: 'GET',
+  path: '/api-docs/swagger-ui-standalone-preset.js',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: 'cb5df93f-6239-40b3-a80b-9f15abd9c3cd',
+  timestamp: '8/31/2025, 1:37:34 AM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api-docs/swagger-ui-init.js',
+  method: 'GET',
+  path: '/api-docs/swagger-ui-init.js',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: '9af215bc-ff58-4f21-b3fa-effb3cd2b7b8',
+  timestamp: '8/31/2025, 1:37:34 AM'
+}
+{
+  level: 'info',
+  message: 'Response Sent - GET /swagger-ui-init.js',
+  method: 'GET',
+  path: '/swagger-ui-init.js',
+  reqId: '9af215bc-ff58-4f21-b3fa-effb3cd2b7b8',
+  responseTime: 0,
+  timestamp: '8/31/2025, 1:37:34 AM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api-docs/favicon-32x32.png',
+  method: 'GET',
+  path: '/api-docs/favicon-32x32.png',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: '96a49d1a-779f-47f9-9a8f-4a8b00bd8cf2',
+  timestamp: '8/31/2025, 1:37:35 AM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api-docs/',
+  method: 'GET',
+  path: '/api-docs/',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: '6524414f-95d6-4e33-9585-01b282bec331',
+  timestamp: '8/31/2025, 1:38:32 AM'
+}
+{
+  level: 'info',
+  message: 'Response Sent - GET /',
+  method: 'GET',
+  path: '/',
+  reqId: '6524414f-95d6-4e33-9585-01b282bec331',
+  responseTime: 0.019,
+  timestamp: '8/31/2025, 1:38:32 AM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api-docs/swagger-ui.css',
+  method: 'GET',
+  path: '/api-docs/swagger-ui.css',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: 'aa44862a-30d7-43b2-9047-a0cc58649898',
+  timestamp: '8/31/2025, 1:38:32 AM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api-docs/swagger-ui-bundle.js',
+  method: 'GET',
+  path: '/api-docs/swagger-ui-bundle.js',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: 'dc555d4c-8b0a-494e-9e7f-08b40fa8d61f',
+  timestamp: '8/31/2025, 1:38:32 AM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api-docs/swagger-ui-standalone-preset.js',
+  method: 'GET',
+  path: '/api-docs/swagger-ui-standalone-preset.js',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: 'd9eb10d5-3a54-4812-a62c-12f5c1dad81e',
+  timestamp: '8/31/2025, 1:38:32 AM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api-docs/swagger-ui-init.js',
+  method: 'GET',
+  path: '/api-docs/swagger-ui-init.js',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: '8c75f8a1-ed37-4039-8e27-68e14d98982e',
+  timestamp: '8/31/2025, 1:38:32 AM'
+}
+{
+  level: 'info',
+  message: 'Response Sent - GET /swagger-ui-init.js',
+  method: 'GET',
+  path: '/swagger-ui-init.js',
+  reqId: '8c75f8a1-ed37-4039-8e27-68e14d98982e',
+  responseTime: 0,
+  timestamp: '8/31/2025, 1:38:32 AM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api-docs/favicon-32x32.png',
+  method: 'GET',
+  path: '/api-docs/favicon-32x32.png',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: '63cac40e-8186-4f51-864c-4948dc90900f',
+  timestamp: '8/31/2025, 1:38:32 AM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api-docs/',
+  method: 'GET',
+  path: '/api-docs/',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: '8a582158-e7ce-4e6c-bb2e-492daadb5295',
+  timestamp: '8/31/2025, 1:41:33 AM'
+}
+{
+  level: 'info',
+  message: 'Response Sent - GET /',
+  method: 'GET',
+  path: '/',
+  reqId: '8a582158-e7ce-4e6c-bb2e-492daadb5295',
+  responseTime: 0.024,
+  timestamp: '8/31/2025, 1:41:33 AM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api-docs/swagger-ui.css',
+  method: 'GET',
+  path: '/api-docs/swagger-ui.css',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: '3c48999d-a380-4c05-9f06-9765fedf6670',
+  timestamp: '8/31/2025, 1:41:33 AM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api-docs/swagger-ui-bundle.js',
+  method: 'GET',
+  path: '/api-docs/swagger-ui-bundle.js',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: '6333ec5e-2c00-475c-ad29-05ad64fc5ee2',
+  timestamp: '8/31/2025, 1:41:33 AM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api-docs/swagger-ui-init.js',
+  method: 'GET',
+  path: '/api-docs/swagger-ui-init.js',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: 'e3238352-b015-4bb6-acb5-8d39b0194c14',
+  timestamp: '8/31/2025, 1:41:33 AM'
+}
+{
+  level: 'info',
+  message: 'Response Sent - GET /swagger-ui-init.js',
+  method: 'GET',
+  path: '/swagger-ui-init.js',
+  reqId: 'e3238352-b015-4bb6-acb5-8d39b0194c14',
+  responseTime: 0.002,
+  timestamp: '8/31/2025, 1:41:33 AM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api-docs/swagger-ui-standalone-preset.js',
+  method: 'GET',
+  path: '/api-docs/swagger-ui-standalone-preset.js',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: 'a3126fe0-4d19-4326-8127-ddf1c74c8b57',
+  timestamp: '8/31/2025, 1:41:33 AM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api-docs/favicon-32x32.png',
+  method: 'GET',
+  path: '/api-docs/favicon-32x32.png',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: '5e319b2d-c5f3-434d-afc8-1fecc35b0114',
+  timestamp: '8/31/2025, 1:41:33 AM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api-docs/',
+  method: 'GET',
+  path: '/api-docs/',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: '5f2016d4-7a48-4a58-8d0e-6cf74689f4e6',
+  timestamp: '8/31/2025, 1:42:59 AM'
+}
+{
+  level: 'info',
+  message: 'Response Sent - GET /',
+  method: 'GET',
+  path: '/',
+  reqId: '5f2016d4-7a48-4a58-8d0e-6cf74689f4e6',
+  responseTime: 0.036,
+  timestamp: '8/31/2025, 1:42:59 AM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api-docs/swagger-ui.css',
+  method: 'GET',
+  path: '/api-docs/swagger-ui.css',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: '0fe78375-9b7f-45bb-8f5b-ecb3052f0165',
+  timestamp: '8/31/2025, 1:42:59 AM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api-docs/swagger-ui-bundle.js',
+  method: 'GET',
+  path: '/api-docs/swagger-ui-bundle.js',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: 'fea9571e-3aeb-4b1d-bb9f-027f75f2ce88',
+  timestamp: '8/31/2025, 1:42:59 AM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api-docs/swagger-ui-standalone-preset.js',
+  method: 'GET',
+  path: '/api-docs/swagger-ui-standalone-preset.js',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: 'ce9aa2d0-15fb-45e3-bce6-c6ef6a9054e9',
+  timestamp: '8/31/2025, 1:42:59 AM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api-docs/swagger-ui-init.js',
+  method: 'GET',
+  path: '/api-docs/swagger-ui-init.js',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: '7bb87f96-27f2-4be1-a11f-220bdb31e343',
+  timestamp: '8/31/2025, 1:42:59 AM'
+}
+{
+  level: 'info',
+  message: 'Response Sent - GET /swagger-ui-init.js',
+  method: 'GET',
+  path: '/swagger-ui-init.js',
+  reqId: '7bb87f96-27f2-4be1-a11f-220bdb31e343',
+  responseTime: 0.001,
+  timestamp: '8/31/2025, 1:42:59 AM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api-docs/favicon-32x32.png',
+  method: 'GET',
+  path: '/api-docs/favicon-32x32.png',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: '0a1ad3ab-3ed6-4207-9f3e-f80682c8d8a0',
+  timestamp: '8/31/2025, 1:43:00 AM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api-docs/',
+  method: 'GET',
+  path: '/api-docs/',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: 'ddcf1628-b4d7-4fd2-87c8-b266110ad2c7',
+  timestamp: '8/31/2025, 1:44:32 AM'
+}
+{
+  level: 'info',
+  message: 'Response Sent - GET /',
+  method: 'GET',
+  path: '/',
+  reqId: 'ddcf1628-b4d7-4fd2-87c8-b266110ad2c7',
+  responseTime: 0.1,
+  timestamp: '8/31/2025, 1:44:33 AM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api-docs/swagger-ui.css',
+  method: 'GET',
+  path: '/api-docs/swagger-ui.css',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: 'cef53afa-f5d4-475a-93d7-1c599ceeb24d',
+  timestamp: '8/31/2025, 1:44:33 AM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api-docs/swagger-ui-init.js',
+  method: 'GET',
+  path: '/api-docs/swagger-ui-init.js',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: '0d7f3ad5-0063-4468-b914-216d681aac0b',
+  timestamp: '8/31/2025, 1:44:33 AM'
+}
+{
+  level: 'info',
+  message: 'Response Sent - GET /swagger-ui-init.js',
+  method: 'GET',
+  path: '/swagger-ui-init.js',
+  reqId: '0d7f3ad5-0063-4468-b914-216d681aac0b',
+  responseTime: 0.005,
+  timestamp: '8/31/2025, 1:44:33 AM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api-docs/swagger-ui-bundle.js',
+  method: 'GET',
+  path: '/api-docs/swagger-ui-bundle.js',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: '5bfc6723-9176-40de-b6e4-05bc194d757b',
+  timestamp: '8/31/2025, 1:44:33 AM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api-docs/swagger-ui-standalone-preset.js',
+  method: 'GET',
+  path: '/api-docs/swagger-ui-standalone-preset.js',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: 'ef7285c9-3f66-4ce9-8e58-9a52a8adc9bb',
+  timestamp: '8/31/2025, 1:44:33 AM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api-docs/favicon-32x32.png',
+  method: 'GET',
+  path: '/api-docs/favicon-32x32.png',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: '4ac65aea-e4eb-475c-97f3-5c2eafe368e2',
+  timestamp: '8/31/2025, 1:44:33 AM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api-docs/',
+  method: 'GET',
+  path: '/api-docs/',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: 'e5713558-909d-4ebd-bceb-9af331f07855',
+  timestamp: '8/31/2025, 1:49:04 AM'
+}
+{
+  level: 'info',
+  message: 'Response Sent - GET /',
+  method: 'GET',
+  path: '/',
+  reqId: 'e5713558-909d-4ebd-bceb-9af331f07855',
+  responseTime: 0.003,
+  timestamp: '8/31/2025, 1:49:04 AM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api-docs/swagger-ui.css',
+  method: 'GET',
+  path: '/api-docs/swagger-ui.css',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: '9fbf6816-1f25-436d-93ee-9b8bff364bd0',
+  timestamp: '8/31/2025, 1:49:04 AM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api-docs/swagger-ui-bundle.js',
+  method: 'GET',
+  path: '/api-docs/swagger-ui-bundle.js',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: '4a7d8afa-d715-466b-9bdb-cef3eaac1d1b',
+  timestamp: '8/31/2025, 1:49:04 AM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api-docs/swagger-ui-standalone-preset.js',
+  method: 'GET',
+  path: '/api-docs/swagger-ui-standalone-preset.js',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: 'd5c91db9-cfc8-433d-94fa-e9f0828320f4',
+  timestamp: '8/31/2025, 1:49:04 AM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api-docs/swagger-ui-init.js',
+  method: 'GET',
+  path: '/api-docs/swagger-ui-init.js',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: 'a106aee9-a301-4d1c-9b71-a1ab44823a37',
+  timestamp: '8/31/2025, 1:49:04 AM'
+}
+{
+  level: 'info',
+  message: 'Response Sent - GET /swagger-ui-init.js',
+  method: 'GET',
+  path: '/swagger-ui-init.js',
+  reqId: 'a106aee9-a301-4d1c-9b71-a1ab44823a37',
+  responseTime: 0.001,
+  timestamp: '8/31/2025, 1:49:04 AM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api-docs/favicon-32x32.png',
+  method: 'GET',
+  path: '/api-docs/favicon-32x32.png',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: 'dcdd6e5e-b69b-4010-9fda-73d1ad72818a',
+  timestamp: '8/31/2025, 1:49:04 AM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api-docs/',
+  method: 'GET',
+  path: '/api-docs/',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: '1642891c-2f17-42a3-87d9-6d072c50b2ce',
+  timestamp: '8/31/2025, 1:51:01 AM'
+}
+{
+  level: 'info',
+  message: 'Response Sent - GET /',
+  method: 'GET',
+  path: '/',
+  reqId: '1642891c-2f17-42a3-87d9-6d072c50b2ce',
+  responseTime: 0.002,
+  timestamp: '8/31/2025, 1:51:01 AM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api-docs/swagger-ui.css',
+  method: 'GET',
+  path: '/api-docs/swagger-ui.css',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: '27ddc78a-65f3-4aef-9831-2986c641c015',
+  timestamp: '8/31/2025, 1:51:01 AM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api-docs/swagger-ui-bundle.js',
+  method: 'GET',
+  path: '/api-docs/swagger-ui-bundle.js',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: '588c6127-6d64-475c-ab28-6b24d51999c2',
+  timestamp: '8/31/2025, 1:51:01 AM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api-docs/swagger-ui-standalone-preset.js',
+  method: 'GET',
+  path: '/api-docs/swagger-ui-standalone-preset.js',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: '681c2139-de66-41c8-baf9-1e1e7a3450bf',
+  timestamp: '8/31/2025, 1:51:01 AM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api-docs/swagger-ui-init.js',
+  method: 'GET',
+  path: '/api-docs/swagger-ui-init.js',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: '1a2d6969-c26a-4616-a53c-8b0f2cc1b2cc',
+  timestamp: '8/31/2025, 1:51:01 AM'
+}
+{
+  level: 'info',
+  message: 'Response Sent - GET /swagger-ui-init.js',
+  method: 'GET',
+  path: '/swagger-ui-init.js',
+  reqId: '1a2d6969-c26a-4616-a53c-8b0f2cc1b2cc',
+  responseTime: 0,
+  timestamp: '8/31/2025, 1:51:01 AM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api-docs/favicon-32x32.png',
+  method: 'GET',
+  path: '/api-docs/favicon-32x32.png',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: '4ba633b8-22a9-4241-af97-ef0baa91c50b',
+  timestamp: '8/31/2025, 1:51:01 AM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api-docs/',
+  method: 'GET',
+  path: '/api-docs/',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: '07569742-c109-433b-b04d-24e62b988f8b',
+  timestamp: '8/31/2025, 1:51:09 AM'
+}
+{
+  level: 'info',
+  message: 'Response Sent - GET /',
+  method: 'GET',
+  path: '/',
+  reqId: '07569742-c109-433b-b04d-24e62b988f8b',
+  responseTime: 0.002,
+  timestamp: '8/31/2025, 1:51:09 AM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api-docs/swagger-ui.css',
+  method: 'GET',
+  path: '/api-docs/swagger-ui.css',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: '0805b0d4-5a37-4941-bf50-3afefd44b01a',
+  timestamp: '8/31/2025, 1:51:09 AM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api-docs/swagger-ui-bundle.js',
+  method: 'GET',
+  path: '/api-docs/swagger-ui-bundle.js',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: 'c451b0ef-ded7-4755-8683-9630d58fdd8b',
+  timestamp: '8/31/2025, 1:51:09 AM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api-docs/swagger-ui-standalone-preset.js',
+  method: 'GET',
+  path: '/api-docs/swagger-ui-standalone-preset.js',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: 'dc130641-94f7-4aaf-abc5-bbd6a80e9c7e',
+  timestamp: '8/31/2025, 1:51:09 AM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api-docs/swagger-ui-init.js',
+  method: 'GET',
+  path: '/api-docs/swagger-ui-init.js',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: 'af7e0b9f-f8b4-4e7d-8bce-2997abab6e5a',
+  timestamp: '8/31/2025, 1:51:09 AM'
+}
+{
+  level: 'info',
+  message: 'Response Sent - GET /swagger-ui-init.js',
+  method: 'GET',
+  path: '/swagger-ui-init.js',
+  reqId: 'af7e0b9f-f8b4-4e7d-8bce-2997abab6e5a',
+  responseTime: 0.003,
+  timestamp: '8/31/2025, 1:51:09 AM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api-docs/',
+  method: 'GET',
+  path: '/api-docs/',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: '458023d7-8340-491c-84d7-67fe6aa6c5af',
+  timestamp: '8/31/2025, 1:51:34 AM'
+}
+{
+  level: 'info',
+  message: 'Response Sent - GET /',
+  method: 'GET',
+  path: '/',
+  reqId: '458023d7-8340-491c-84d7-67fe6aa6c5af',
+  responseTime: 0.03,
+  timestamp: '8/31/2025, 1:51:34 AM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api-docs/swagger-ui.css',
+  method: 'GET',
+  path: '/api-docs/swagger-ui.css',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: '6513c0eb-d187-4d17-a8f4-6428cd6a2134',
+  timestamp: '8/31/2025, 1:51:34 AM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api-docs/swagger-ui-bundle.js',
+  method: 'GET',
+  path: '/api-docs/swagger-ui-bundle.js',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: 'df115a9b-e212-46a1-bc4d-672c45d9ea10',
+  timestamp: '8/31/2025, 1:51:34 AM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api-docs/swagger-ui-standalone-preset.js',
+  method: 'GET',
+  path: '/api-docs/swagger-ui-standalone-preset.js',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: 'be0f0872-3259-4215-989c-08394895127e',
+  timestamp: '8/31/2025, 1:51:34 AM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api-docs/swagger-ui-init.js',
+  method: 'GET',
+  path: '/api-docs/swagger-ui-init.js',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: '9e17488a-5d4e-4dc7-ac2e-2866fc0367ab',
+  timestamp: '8/31/2025, 1:51:34 AM'
+}
+{
+  level: 'info',
+  message: 'Response Sent - GET /swagger-ui-init.js',
+  method: 'GET',
+  path: '/swagger-ui-init.js',
+  reqId: '9e17488a-5d4e-4dc7-ac2e-2866fc0367ab',
+  responseTime: 0.001,
+  timestamp: '8/31/2025, 1:51:34 AM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api-docs/favicon-32x32.png',
+  method: 'GET',
+  path: '/api-docs/favicon-32x32.png',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: '8e3b7201-6bc7-4751-8a02-396a01064606',
+  timestamp: '8/31/2025, 1:51:34 AM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api-docs/',
+  method: 'GET',
+  path: '/api-docs/',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: '7300d76b-91e8-4280-95d5-11186971aac9',
+  timestamp: '8/31/2025, 1:52:18 AM'
+}
+{
+  level: 'info',
+  message: 'Response Sent - GET /',
+  method: 'GET',
+  path: '/',
+  reqId: '7300d76b-91e8-4280-95d5-11186971aac9',
+  responseTime: 0.022,
+  timestamp: '8/31/2025, 1:52:18 AM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api-docs/swagger-ui.css',
+  method: 'GET',
+  path: '/api-docs/swagger-ui.css',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: '8021627b-c68e-45d8-b78b-e6295e11be1f',
+  timestamp: '8/31/2025, 1:52:18 AM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api-docs/swagger-ui-bundle.js',
+  method: 'GET',
+  path: '/api-docs/swagger-ui-bundle.js',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: 'ea774961-5592-4e00-a259-dc0647d92e18',
+  timestamp: '8/31/2025, 1:52:18 AM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api-docs/swagger-ui-standalone-preset.js',
+  method: 'GET',
+  path: '/api-docs/swagger-ui-standalone-preset.js',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: 'c1b17ec7-648a-4018-8000-f5cf77696973',
+  timestamp: '8/31/2025, 1:52:18 AM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api-docs/swagger-ui-init.js',
+  method: 'GET',
+  path: '/api-docs/swagger-ui-init.js',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: 'da099789-b0c0-476a-bdd4-0a95484ed1f5',
+  timestamp: '8/31/2025, 1:52:18 AM'
+}
+{
+  level: 'info',
+  message: 'Response Sent - GET /swagger-ui-init.js',
+  method: 'GET',
+  path: '/swagger-ui-init.js',
+  reqId: 'da099789-b0c0-476a-bdd4-0a95484ed1f5',
+  responseTime: 0,
+  timestamp: '8/31/2025, 1:52:18 AM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api-docs/favicon-32x32.png',
+  method: 'GET',
+  path: '/api-docs/favicon-32x32.png',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: 'd050f7f5-0536-4e70-bf9d-42e532474e55',
+  timestamp: '8/31/2025, 1:52:18 AM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - POST /api/v1/user/login',
+  method: 'POST',
+  path: '/api/v1/user/login',
+  query: [Object: null prototype] {},
+  body: { email: 'john@doe.com', password: '******' },
+  reqId: 'fcc7cb43-0402-42cb-9b49-b2afe7986e91',
+  timestamp: '8/31/2025, 1:54:15 AM'
+}
+{
+  level: 'info',
+  message: 'Response Sent - POST /api/v1/user/login',
+  method: 'POST',
+  path: '/api/v1/user/login',
+  reqId: 'fcc7cb43-0402-42cb-9b49-b2afe7986e91',
+  responseTime: 0.373,
+  timestamp: '8/31/2025, 1:54:15 AM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - POST /api/v1/user/login',
+  method: 'POST',
+  path: '/api/v1/user/login',
+  query: [Object: null prototype] {},
+  body: { email: 'john@doe.com', password: '******' },
+  reqId: 'a3558e7a-7387-46df-8cc6-f10fadf3901a',
+  timestamp: '8/31/2025, 1:54:37 AM'
+}
+{
+  level: 'info',
+  message: 'Response Sent - POST /login',
+  method: 'POST',
+  path: '/login',
+  reqId: 'a3558e7a-7387-46df-8cc6-f10fadf3901a',
+  responseTime: 0.24,
+  timestamp: '8/31/2025, 1:54:37 AM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api-docs/',
+  method: 'GET',
+  path: '/api-docs/',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: '0cf9e8e2-ab26-4580-818c-97a9c396b03b',
+  timestamp: '8/31/2025, 2:05:23 AM'
+}
+{
+  level: 'info',
+  message: 'Response Sent - GET /',
+  method: 'GET',
+  path: '/',
+  reqId: '0cf9e8e2-ab26-4580-818c-97a9c396b03b',
+  responseTime: 0.022,
+  timestamp: '8/31/2025, 2:05:23 AM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api-docs/swagger-ui.css',
+  method: 'GET',
+  path: '/api-docs/swagger-ui.css',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: '80c1b23f-a10d-4bf9-b363-f03f0b14edac',
+  timestamp: '8/31/2025, 2:05:23 AM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api-docs/swagger-ui-bundle.js',
+  method: 'GET',
+  path: '/api-docs/swagger-ui-bundle.js',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: '6ec1bf79-8e3f-4471-b22b-b1c97b2f80d7',
+  timestamp: '8/31/2025, 2:05:23 AM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api-docs/swagger-ui-standalone-preset.js',
+  method: 'GET',
+  path: '/api-docs/swagger-ui-standalone-preset.js',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: '5ac76671-8a17-4712-b129-52db50532f5a',
+  timestamp: '8/31/2025, 2:05:23 AM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api-docs/swagger-ui-init.js',
+  method: 'GET',
+  path: '/api-docs/swagger-ui-init.js',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: '6171855e-b68d-433d-a50e-24a1e0b0945d',
+  timestamp: '8/31/2025, 2:05:23 AM'
+}
+{
+  level: 'info',
+  message: 'Response Sent - GET /swagger-ui-init.js',
+  method: 'GET',
+  path: '/swagger-ui-init.js',
+  reqId: '6171855e-b68d-433d-a50e-24a1e0b0945d',
+  responseTime: 0.001,
+  timestamp: '8/31/2025, 2:05:23 AM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api-docs/favicon-32x32.png',
+  method: 'GET',
+  path: '/api-docs/favicon-32x32.png',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: '2a69c336-1439-42d8-ad38-2e5d838d0a61',
+  timestamp: '8/31/2025, 2:05:23 AM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api/v1/user/unknown-credit',
+  method: 'GET',
+  path: '/api/v1/user/unknown-credit',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: '9f3c2175-f3e4-428e-b3c2-3fc335881adf',
+  timestamp: '8/31/2025, 2:05:35 AM'
+}
+{
+  level: 'info',
+  message: 'Response Sent - GET /api/v1/user/unknown-credit',
+  method: 'GET',
+  path: '/api/v1/user/unknown-credit',
+  reqId: '9f3c2175-f3e4-428e-b3c2-3fc335881adf',
+  responseTime: 0.012,
+  timestamp: '8/31/2025, 2:05:35 AM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - POST /api/v1/user/login',
+  method: 'POST',
+  path: '/api/v1/user/login',
+  query: [Object: null prototype] {},
+  body: { email: 'john@doe.com', password: '******' },
+  reqId: '50dc3a69-033d-44a8-8a5e-146cb710eef0',
+  timestamp: '8/31/2025, 2:06:00 AM'
+}
+{
+  level: 'info',
+  message: 'Response Sent - POST /login',
+  method: 'POST',
+  path: '/login',
+  reqId: '50dc3a69-033d-44a8-8a5e-146cb710eef0',
+  responseTime: 0.169,
+  timestamp: '8/31/2025, 2:06:00 AM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api/v1/user/unknown-credit',
+  method: 'GET',
+  path: '/api/v1/user/unknown-credit',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: '83e4b464-1dee-491e-9b9f-a3441715ec9c',
+  timestamp: '8/31/2025, 2:06:14 AM'
+}
+{
+  level: 'info',
+  message: 'Response Sent - GET /unknown-credit',
+  method: 'GET',
+  path: '/unknown-credit',
+  reqId: '83e4b464-1dee-491e-9b9f-a3441715ec9c',
+  responseTime: 0.041,
+  timestamp: '8/31/2025, 2:06:15 AM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api-docs/',
+  method: 'GET',
+  path: '/api-docs/',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: '712b8f04-593c-425b-8571-638d9187443b',
+  timestamp: '8/31/2025, 2:12:13 AM'
+}
+{
+  level: 'info',
+  message: 'Response Sent - GET /',
+  method: 'GET',
+  path: '/',
+  reqId: '712b8f04-593c-425b-8571-638d9187443b',
+  responseTime: 0.027,
+  timestamp: '8/31/2025, 2:12:13 AM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api-docs/swagger-ui.css',
+  method: 'GET',
+  path: '/api-docs/swagger-ui.css',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: '9783dbba-faa9-44de-abbc-51e06ca165c5',
+  timestamp: '8/31/2025, 2:12:13 AM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api-docs/swagger-ui-bundle.js',
+  method: 'GET',
+  path: '/api-docs/swagger-ui-bundle.js',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: '8c1fe49c-07ce-44b6-afe9-3f348faab7b3',
+  timestamp: '8/31/2025, 2:12:13 AM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api-docs/swagger-ui-standalone-preset.js',
+  method: 'GET',
+  path: '/api-docs/swagger-ui-standalone-preset.js',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: 'c5694646-14a9-405a-9061-63e3b8f6e939',
+  timestamp: '8/31/2025, 2:12:13 AM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api-docs/swagger-ui-init.js',
+  method: 'GET',
+  path: '/api-docs/swagger-ui-init.js',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: 'c32e422c-378c-4ce6-a0f2-82ce7672e8c3',
+  timestamp: '8/31/2025, 2:12:13 AM'
+}
+{
+  level: 'info',
+  message: 'Response Sent - GET /swagger-ui-init.js',
+  method: 'GET',
+  path: '/swagger-ui-init.js',
+  reqId: 'c32e422c-378c-4ce6-a0f2-82ce7672e8c3',
+  responseTime: 0.002,
+  timestamp: '8/31/2025, 2:12:13 AM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api-docs/favicon-32x32.png',
+  method: 'GET',
+  path: '/api-docs/favicon-32x32.png',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: 'b38e99b1-1e0c-4a3e-9cbb-10dadc3c8782',
+  timestamp: '8/31/2025, 2:12:14 AM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api/v1/user/unknown-credit',
+  method: 'GET',
+  path: '/api/v1/user/unknown-credit',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: '1b5f21fc-54b4-46a6-87bf-008939201604',
+  timestamp: '8/31/2025, 4:09:24 PM'
+}
+{
+  level: 'info',
+  message: 'Response Sent - GET /unknown-credit',
+  method: 'GET',
+  path: '/unknown-credit',
+  reqId: '1b5f21fc-54b4-46a6-87bf-008939201604',
+  responseTime: 0.059,
+  timestamp: '8/31/2025, 4:09:24 PM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api/v1/user/unknown-credit',
+  method: 'GET',
+  path: '/api/v1/user/unknown-credit',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: '75cdd434-826f-4a91-b2ea-e58197a09858',
+  timestamp: '8/31/2025, 4:09:29 PM'
+}
+{
+  level: 'info',
+  message: 'Response Sent - GET /api/v1/user/unknown-credit',
+  method: 'GET',
+  path: '/api/v1/user/unknown-credit',
+  reqId: '75cdd434-826f-4a91-b2ea-e58197a09858',
+  responseTime: 0.013,
+  timestamp: '8/31/2025, 4:09:29 PM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - POST /api/v1/user/register',
+  method: 'POST',
+  path: '/api/v1/user/register',
+  query: [Object: null prototype] {},
+  body: { username: 'rky', email: 'rky1@gmail.com', password: '******' },
+  reqId: '99bdfffd-0fb8-4648-9606-de79d640c3e6',
+  timestamp: '8/31/2025, 4:14:49 PM'
+}
+{
+  level: 'info',
+  message: 'Response Sent - POST /register',
+  method: 'POST',
+  path: '/register',
+  reqId: '99bdfffd-0fb8-4648-9606-de79d640c3e6',
+  responseTime: 0.35,
+  timestamp: '8/31/2025, 4:14:50 PM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api/v1/user/unknown-credit',
+  method: 'GET',
+  path: '/api/v1/user/unknown-credit',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: '66280f89-92bf-4219-ba12-c554a6dab26c',
+  timestamp: '8/31/2025, 4:14:50 PM'
+}
+{
+  level: 'info',
+  message: 'Response Sent - GET /unknown-credit',
+  method: 'GET',
+  path: '/unknown-credit',
+  reqId: '66280f89-92bf-4219-ba12-c554a6dab26c',
+  responseTime: 0.035,
+  timestamp: '8/31/2025, 4:14:50 PM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api/v1/user/unknown-credit',
+  method: 'GET',
+  path: '/api/v1/user/unknown-credit',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: 'b15f9c25-2d35-40df-b9fc-99b28fa38315',
+  timestamp: '8/31/2025, 4:21:19 PM'
+}
+{
+  level: 'info',
+  message: 'Response Sent - GET /api/v1/user/unknown-credit',
+  method: 'GET',
+  path: '/api/v1/user/unknown-credit',
+  reqId: 'b15f9c25-2d35-40df-b9fc-99b28fa38315',
+  responseTime: 0.005,
+  timestamp: '8/31/2025, 4:21:19 PM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api/v1/user/unknown-credit',
+  method: 'GET',
+  path: '/api/v1/user/unknown-credit',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: '45ccb9c0-6a53-436e-90fb-bf2478c5180c',
+  timestamp: '8/31/2025, 4:29:34 PM'
+}
+{
+  level: 'info',
+  message: 'Response Sent - GET /api/v1/user/unknown-credit',
+  method: 'GET',
+  path: '/api/v1/user/unknown-credit',
+  reqId: '45ccb9c0-6a53-436e-90fb-bf2478c5180c',
+  responseTime: 0.048,
+  timestamp: '8/31/2025, 4:29:34 PM'
+}

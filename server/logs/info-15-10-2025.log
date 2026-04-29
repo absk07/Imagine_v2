@@ -1,0 +1,247 @@
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api/v1/user/unknown-credit',
+  method: 'GET',
+  path: '/api/v1/user/unknown-credit',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: 'b7ab3a63-7122-4b75-b38c-8d2116a8ca71',
+  timestamp: '10/15/2025, 3:59:15 PM'
+}
+{
+  level: 'info',
+  message: 'Response Sent - GET /api/v1/user/unknown-credit',
+  method: 'GET',
+  path: '/api/v1/user/unknown-credit',
+  reqId: 'b7ab3a63-7122-4b75-b38c-8d2116a8ca71',
+  responseTime: 0.164,
+  timestamp: '10/15/2025, 3:59:15 PM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - POST /api/v1/user/login',
+  method: 'POST',
+  path: '/api/v1/user/login',
+  query: [Object: null prototype] {},
+  body: { email: 'john@doe.com', password: '******' },
+  reqId: '5526035e-c0f7-4b20-ae69-b2746ed55401',
+  timestamp: '10/15/2025, 3:59:56 PM'
+}
+{
+  level: 'info',
+  message: 'Response Sent - POST /login',
+  method: 'POST',
+  path: '/login',
+  reqId: '5526035e-c0f7-4b20-ae69-b2746ed55401',
+  responseTime: 0.278,
+  timestamp: '10/15/2025, 3:59:57 PM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api/v1/user/unknown-credit',
+  method: 'GET',
+  path: '/api/v1/user/unknown-credit',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: '8487facb-1f36-4db7-843b-7e2e0806d8be',
+  timestamp: '10/15/2025, 3:59:57 PM'
+}
+{
+  level: 'info',
+  message: 'Response Sent - GET /unknown-credit',
+  method: 'GET',
+  path: '/unknown-credit',
+  reqId: '8487facb-1f36-4db7-843b-7e2e0806d8be',
+  responseTime: 0.161,
+  timestamp: '10/15/2025, 3:59:57 PM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api/v1/history',
+  method: 'GET',
+  path: '/api/v1/history',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: '16ebea56-692f-4289-93f6-a10ffd7e58ce',
+  timestamp: '10/15/2025, 4:00:15 PM'
+}
+{
+  level: 'info',
+  message: 'Response Sent - GET /',
+  method: 'GET',
+  path: '/',
+  reqId: '16ebea56-692f-4289-93f6-a10ffd7e58ce',
+  responseTime: 2.281,
+  timestamp: '10/15/2025, 4:00:17 PM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api/v1/user/unknown-credit',
+  method: 'GET',
+  path: '/api/v1/user/unknown-credit',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: '9a335460-d577-470b-850c-760239ab7a69',
+  timestamp: '10/15/2025, 5:09:33 PM'
+}
+{
+  level: 'info',
+  message: 'Response Sent - GET /unknown-credit',
+  method: 'GET',
+  path: '/unknown-credit',
+  reqId: '9a335460-d577-470b-850c-760239ab7a69',
+  responseTime: 0.331,
+  timestamp: '10/15/2025, 5:09:34 PM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api/v1/user/unknown-credit',
+  method: 'GET',
+  path: '/api/v1/user/unknown-credit',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: '9fdef661-db9a-42ed-bb99-7c67b95172e4',
+  timestamp: '10/15/2025, 5:09:52 PM'
+}
+{
+  level: 'info',
+  message: 'Response Sent - GET /unknown-credit',
+  method: 'GET',
+  path: '/unknown-credit',
+  reqId: '9fdef661-db9a-42ed-bb99-7c67b95172e4',
+  responseTime: 0.158,
+  timestamp: '10/15/2025, 5:09:52 PM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - POST /api/v1/user/login',
+  method: 'POST',
+  path: '/api/v1/user/login',
+  query: [Object: null prototype] {},
+  body: { email: 'john@doe.com', password: '******' },
+  reqId: '48762685-0111-46aa-9b74-927a7ef2e174',
+  timestamp: '10/15/2025, 5:10:15 PM'
+}
+{
+  level: 'info',
+  message: 'Response Sent - POST /login',
+  method: 'POST',
+  path: '/login',
+  reqId: '48762685-0111-46aa-9b74-927a7ef2e174',
+  responseTime: 0.231,
+  timestamp: '10/15/2025, 5:10:16 PM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api/v1/user/unknown-credit',
+  method: 'GET',
+  path: '/api/v1/user/unknown-credit',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: 'a10c6fb6-7dee-4f49-9fe8-84041a99b1c7',
+  timestamp: '10/15/2025, 5:10:16 PM'
+}
+{
+  level: 'info',
+  message: 'Response Sent - GET /unknown-credit',
+  method: 'GET',
+  path: '/unknown-credit',
+  reqId: 'a10c6fb6-7dee-4f49-9fe8-84041a99b1c7',
+  responseTime: 0.159,
+  timestamp: '10/15/2025, 5:10:16 PM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api/v1/history',
+  method: 'GET',
+  path: '/api/v1/history',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: '7026b949-b6b5-4548-9179-dd65b16552fc',
+  timestamp: '10/15/2025, 5:10:30 PM'
+}
+{
+  level: 'info',
+  message: 'Response Sent - GET /',
+  method: 'GET',
+  path: '/',
+  reqId: '7026b949-b6b5-4548-9179-dd65b16552fc',
+  responseTime: 2.608,
+  timestamp: '10/15/2025, 5:10:33 PM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - POST /api/v1/text-to-image/generate-image',
+  method: 'POST',
+  path: '/api/v1/text-to-image/generate-image',
+  query: [Object: null prototype] {},
+  body: { prompt: 'A tiger riding motorcycle' },
+  reqId: '3da53dc9-dad8-488c-a461-1adfe311b684',
+  timestamp: '10/15/2025, 5:11:08 PM'
+}
+{
+  level: 'info',
+  message: 'Response Sent - POST /generate-image',
+  method: 'POST',
+  path: '/generate-image',
+  reqId: '3da53dc9-dad8-488c-a461-1adfe311b684',
+  responseTime: 4.686,
+  timestamp: '10/15/2025, 5:11:13 PM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api/v1/user/unknown-credit',
+  method: 'GET',
+  path: '/api/v1/user/unknown-credit',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: '76f3a990-1a49-419d-822d-9dec384ed690',
+  timestamp: '10/15/2025, 5:11:13 PM'
+}
+{
+  level: 'info',
+  message: 'Response Sent - GET /unknown-credit',
+  method: 'GET',
+  path: '/unknown-credit',
+  reqId: '76f3a990-1a49-419d-822d-9dec384ed690',
+  responseTime: 0.155,
+  timestamp: '10/15/2025, 5:11:13 PM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api/v1/history',
+  method: 'GET',
+  path: '/api/v1/history',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: 'ebb11cbd-1bd2-4edd-bf66-eea11c9d4f36',
+  timestamp: '10/15/2025, 5:11:13 PM'
+}
+{
+  level: 'info',
+  message: 'Response Sent - GET /',
+  method: 'GET',
+  path: '/',
+  reqId: 'ebb11cbd-1bd2-4edd-bf66-eea11c9d4f36',
+  responseTime: 5.918,
+  timestamp: '10/15/2025, 5:11:19 PM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - POST /api/v1/text-to-image/generate-image',
+  method: 'POST',
+  path: '/api/v1/text-to-image/generate-image',
+  query: [Object: null prototype] {},
+  body: { prompt: 'A ball\n\n\n\n\n\n\n\n\n' },
+  reqId: '33a2c853-6603-425d-9a6f-23308667b6bb',
+  timestamp: '10/15/2025, 5:58:46 PM'
+}
+{
+  level: 'info',
+  message: 'Response Sent - POST /api/v1/text-to-image/generate-image',
+  method: 'POST',
+  path: '/api/v1/text-to-image/generate-image',
+  reqId: '33a2c853-6603-425d-9a6f-23308667b6bb',
+  responseTime: 0.215,
+  timestamp: '10/15/2025, 5:58:46 PM'
+}

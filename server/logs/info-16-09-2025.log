@@ -1,0 +1,152 @@
+{
+  level: 'info',
+  message: 'Incoming Request - POST /api/v1/user/login',
+  method: 'POST',
+  path: '/api/v1/user/login',
+  query: [Object: null prototype] {},
+  body: { email: 'john@doe.com', password: '******' },
+  reqId: 'df56da48-78ba-495e-9d2b-f1b4d21ab86d',
+  timestamp: '9/16/2025, 3:46:11 PM'
+}
+{
+  level: 'info',
+  message: 'Response Sent - POST /login',
+  method: 'POST',
+  path: '/login',
+  reqId: 'df56da48-78ba-495e-9d2b-f1b4d21ab86d',
+  responseTime: 0.316,
+  timestamp: '9/16/2025, 3:46:12 PM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api/v1/user/unknown-credit',
+  method: 'GET',
+  path: '/api/v1/user/unknown-credit',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: '04c68299-b849-4dbc-9d4c-e5900e899646',
+  timestamp: '9/16/2025, 3:46:12 PM'
+}
+{
+  level: 'info',
+  message: 'Response Sent - GET /unknown-credit',
+  method: 'GET',
+  path: '/unknown-credit',
+  reqId: '04c68299-b849-4dbc-9d4c-e5900e899646',
+  responseTime: 0.037,
+  timestamp: '9/16/2025, 3:46:12 PM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api/v1/history',
+  method: 'GET',
+  path: '/api/v1/history',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: 'a456fc66-1769-43df-acfa-61ff38cd80fc',
+  timestamp: '9/16/2025, 3:46:15 PM'
+}
+{
+  level: 'info',
+  message: 'Response Sent - GET /',
+  method: 'GET',
+  path: '/',
+  reqId: 'a456fc66-1769-43df-acfa-61ff38cd80fc',
+  responseTime: 0.917,
+  timestamp: '9/16/2025, 3:46:16 PM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api/v1/user/unknown-credit',
+  method: 'GET',
+  path: '/api/v1/user/unknown-credit',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: '214c6814-0ee4-4afd-a8db-bb8cb04ddee0',
+  timestamp: '9/16/2025, 3:46:20 PM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api/v1/history',
+  method: 'GET',
+  path: '/api/v1/history',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: 'b167cab8-bd08-41da-8eaf-e2ad6117f00c',
+  timestamp: '9/16/2025, 3:46:20 PM'
+}
+{
+  level: 'info',
+  message: 'Response Sent - GET /unknown-credit',
+  method: 'GET',
+  path: '/unknown-credit',
+  reqId: '214c6814-0ee4-4afd-a8db-bb8cb04ddee0',
+  responseTime: 0.05,
+  timestamp: '9/16/2025, 3:46:20 PM'
+}
+{
+  level: 'info',
+  message: 'Response Sent - GET /',
+  method: 'GET',
+  path: '/',
+  reqId: 'b167cab8-bd08-41da-8eaf-e2ad6117f00c',
+  responseTime: 1.993,
+  timestamp: '9/16/2025, 3:46:22 PM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - POST /api/v1/text-to-image/generate-image',
+  method: 'POST',
+  path: '/api/v1/text-to-image/generate-image',
+  query: [Object: null prototype] {},
+  body: { prompt: 'cat playing with girls' },
+  reqId: '63a2b5fc-1af5-481a-a194-676e257b2643',
+  timestamp: '9/16/2025, 3:47:00 PM'
+}
+{
+  level: 'info',
+  message: 'Response Sent - POST /generate-image',
+  method: 'POST',
+  path: '/generate-image',
+  reqId: '63a2b5fc-1af5-481a-a194-676e257b2643',
+  responseTime: 4.226,
+  timestamp: '9/16/2025, 3:47:04 PM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api/v1/user/unknown-credit',
+  method: 'GET',
+  path: '/api/v1/user/unknown-credit',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: 'bf343c2e-100c-46b6-975a-5d9f42665617',
+  timestamp: '9/16/2025, 3:47:04 PM'
+}
+{
+  level: 'info',
+  message: 'Response Sent - GET /unknown-credit',
+  method: 'GET',
+  path: '/unknown-credit',
+  reqId: 'bf343c2e-100c-46b6-975a-5d9f42665617',
+  responseTime: 0.015,
+  timestamp: '9/16/2025, 3:47:04 PM'
+}
+{
+  level: 'info',
+  message: 'Incoming Request - GET /api/v1/history',
+  method: 'GET',
+  path: '/api/v1/history',
+  query: [Object: null prototype] {},
+  body: undefined,
+  reqId: '031d7a66-385e-4026-9765-983ffb4d4492',
+  timestamp: '9/16/2025, 3:47:05 PM'
+}
+{
+  level: 'info',
+  message: 'Response Sent - GET /',
+  method: 'GET',
+  path: '/',
+  reqId: '031d7a66-385e-4026-9765-983ffb4d4492',
+  responseTime: 0.975,
+  timestamp: '9/16/2025, 3:47:05 PM'
+}
